@@ -1,0 +1,3482 @@
+src,dst,weight
+World Trade Center,Bloomingdale,29
+Upper West Side North,Midtown South,29
+Garment District,Stuy Town/Peter Cooper Village,28
+Midtown North,Yorkville East,28
+Washington Heights South,Hudson Sq,27
+Midtown South,Financial District North,27
+Penn Station/Madison Sq West,Manhattan Valley,27
+Times Sq/Theatre District,Greenwich Village North,27
+Alphabet City,East Chelsea,26
+Financial District North,Manhattan Valley,26
+Meatpacking/West Village West,Two Bridges/Seward Park,26
+Union Sq,Clinton East,26
+Yorkville West,Midtown Center,26
+Union Sq,Lenox Hill West,25
+Astoria,West Chelsea/Hudson Yards,25
+LaGuardia Airport,Flatiron,25
+Battery Park,Clinton East,25
+Greenwich Village North,Lincoln Square East,25
+Lower East Side,Union Sq,24
+SoHo,Greenwich Village South,24
+Bushwick South,Meatpacking/West Village West,24
+Clinton East,Battery Park,24
+Battery Park,Midtown East,24
+Central Harlem,Union Sq,24
+Lower East Side,LaGuardia Airport,24
+Newark Airport,Upper West Side North,24
+Hudson Sq,Upper East Side North,24
+Midtown South,Gramercy,24
+Bloomingdale,Yorkville West,24
+Clinton East,Central Harlem,24
+Central Harlem,World Trade Center,24
+Lower East Side,East Village,24
+Lower East Side,Bloomingdale,24
+West Chelsea/Hudson Yards,Midtown South,24
+Bloomingdale,Alphabet City,24
+Financial District North,Clinton West,24
+Clinton East,Lenox Hill East,24
+East Chelsea,JFK Airport,24
+Times Sq/Theatre District,Battery Park City,24
+Sutton Place/Turtle Bay North,Alphabet City,24
+Washington Heights North,Brooklyn Heights,24
+UN/Turtle Bay South,Greenwich Village North,24
+Seaport,Battery Park City,23
+Financial District South,Union Sq,23
+Flatiron,Meatpacking/West Village West,23
+Lower East Side,Upper East Side North,23
+Battery Park City,Penn Station/Madison Sq West,23
+Battery Park City,Financial District South,23
+Flatiron,Bedford,23
+Bloomingdale,World Trade Center,23
+Upper East Side South,Greenwich Village South,23
+Times Sq/Theatre District,Brooklyn Heights,23
+World Trade Center,Bushwick South,23
+Bushwick South,Seaport,23
+West Chelsea/Hudson Yards,Washington Heights North,23
+Battery Park,Alphabet City,23
+Greenwich Village North,JFK Airport,23
+Lincoln Square West,Yorkville East,23
+Battery Park,LaGuardia Airport,23
+Upper East Side North,Central Park,23
+Alphabet City,West Chelsea/Hudson Yards,23
+East Village,Midtown East,23
+Newark Airport,Lenox Hill West,23
+Midtown South,Upper East Side South,23
+World Trade Center,Upper West Side South,23
+Lenox Hill East,Alphabet City,23
+Bushwick South,West Village,23
+Union Sq,Seaport,23
+Greenwich Village North,Clinton West,23
+Flatiron,Alphabet City,23
+Greenwich Village North,Astoria,23
+Bushwick South,Midtown Center,23
+Central Harlem,Astoria,23
+Newark Airport,UN/Turtle Bay South,23
+Lenox Hill East,Washington Heights North,23
+Astoria,Midtown East,23
+East Village,Midtown North,23
+Financial District South,Upper East Side North,23
+Greenwich Village North,Bushwick South,23
+Lenox Hill East,Astoria,23
+Financial District North,JFK Airport,23
+Alphabet City,Penn Station/Madison Sq West,23
+Brooklyn Heights,Alphabet City,23
+Meatpacking/West Village West,Seaport,23
+Washington Heights South,Lower East Side,22
+Financial District South,Yorkville West,22
+Yorkville East,UN/Turtle Bay South,22
+SoHo,Financial District South,22
+Midtown East,East Chelsea,22
+Manhattan Valley,Battery Park,22
+Stuy Town/Peter Cooper Village,Central Harlem,22
+Lincoln Square East,Lincoln Square West,22
+Bloomingdale,East Chelsea,22
+Penn Station/Madison Sq West,UN/Turtle Bay South,22
+Battery Park,Lincoln Square West,22
+Clinton East,Gramercy,22
+Manhattan Valley,Washington Heights North,22
+Astoria,Central Harlem,22
+Bushwick South,Murray Hill,22
+Penn Station/Madison Sq West,Bloomingdale,22
+Upper East Side North,Financial District North,22
+Flatiron,Upper East Side South,22
+Meatpacking/West Village West,Greenwich Village North,22
+Gramercy,Greenwich Village North,22
+Lower East Side,UN/Turtle Bay South,22
+Clinton East,Yorkville East,22
+Upper West Side North,Alphabet City,22
+Midtown Center,Lincoln Square West,22
+Financial District North,Bloomingdale,22
+Hudson Sq,Sutton Place/Turtle Bay North,22
+Gramercy,Midtown East,22
+JFK Airport,Flatiron,22
+TriBeCa/Civic Center,Upper East Side North,22
+LaGuardia Airport,East Chelsea,22
+Gramercy,Lincoln Square East,22
+Manhattan Valley,SoHo,22
+Brooklyn Heights,Upper West Side South,22
+Bloomingdale,West Chelsea/Hudson Yards,22
+Washington Heights North,Financial District North,22
+Bloomingdale,Lenox Hill West,22
+Bedford,Manhattan Valley,22
+Central Harlem,TriBeCa/Civic Center,22
+Washington Heights North,Flatiron,22
+Seaport,Financial District South,22
+Two Bridges/Seward Park,UN/Turtle Bay South,22
+West Village,Manhattan Valley,22
+Meatpacking/West Village West,Astoria,22
+Central Harlem,SoHo,22
+Bloomingdale,Bedford,22
+World Trade Center,Clinton West,22
+Greenwich Village North,LaGuardia Airport,22
+Yorkville West,East Chelsea,22
+Central Park,Midtown East,22
+Midtown Center,Yorkville East,22
+Bloomingdale,Gramercy,22
+Gramercy,UN/Turtle Bay South,22
+Battery Park City,Lincoln Square East,22
+Lower East Side,TriBeCa/Civic Center,22
+World Trade Center,Gramercy,22
+East Chelsea,Bloomingdale,22
+Bushwick South,Midtown North,22
+World Trade Center,East Harlem North,22
+Two Bridges/Seward Park,Newark Airport,21
+Financial District North,Battery Park,21
+Upper West Side South,Murray Hill,21
+West Village,Upper West Side North,21
+Seaport,West Chelsea/Hudson Yards,21
+Bloomingdale,Greenwich Village North,21
+Battery Park City,Upper West Side North,21
+JFK Airport,Midtown North,21
+Clinton West,Garment District,21
+Murray Hill,Upper West Side South,21
+Lincoln Square West,Gramercy,21
+Central Harlem,Bushwick South,21
+Meatpacking/West Village West,Upper East Side North,21
+Midtown South,Bushwick South,21
+Lincoln Square East,Financial District South,21
+World Trade Center,Lincoln Square West,21
+Penn Station/Madison Sq West,Two Bridges/Seward Park,21
+Seaport,Yorkville East,21
+Bloomingdale,Two Bridges/Seward Park,21
+Battery Park City,East Harlem North,21
+World Trade Center,Washington Heights North,21
+West Village,Yorkville West,21
+Lincoln Square West,Upper East Side North,21
+Midtown North,Bushwick South,21
+Central Harlem,Upper West Side North,21
+Battery Park City,Yorkville West,21
+Midtown North,Central Harlem,21
+Gramercy,Upper West Side South,21
+Brooklyn Heights,Sutton Place/Turtle Bay North,21
+SoHo,UN/Turtle Bay South,21
+Murray Hill,West Chelsea/Hudson Yards,21
+Central Park,Washington Heights North,21
+SoHo,Lenox Hill West,21
+Stuy Town/Peter Cooper Village,West Village,21
+TriBeCa/Civic Center,Times Sq/Theatre District,21
+Upper East Side South,UN/Turtle Bay South,21
+Flatiron,Gramercy,21
+Clinton East,SoHo,21
+Gramercy,Yorkville West,21
+Greenwich Village North,Lenox Hill West,21
+Sutton Place/Turtle Bay North,Battery Park City,21
+Greenwich Village South,Yorkville West,21
+Battery Park City,Lenox Hill West,21
+Greenwich Village South,Central Park,21
+Battery Park City,UN/Turtle Bay South,21
+West Village,Newark Airport,21
+Sutton Place/Turtle Bay North,Bushwick South,21
+SoHo,Garment District,21
+Meatpacking/West Village West,Union Sq,21
+JFK Airport,Yorkville East,21
+Yorkville West,Financial District South,21
+Meatpacking/West Village West,Manhattan Valley,21
+Newark Airport,West Chelsea/Hudson Yards,21
+Lenox Hill East,Seaport,21
+Brooklyn Heights,Washington Heights North,21
+Lenox Hill East,Murray Hill,21
+Midtown Center,Garment District,21
+UN/Turtle Bay South,Brooklyn Heights,21
+Meatpacking/West Village West,World Trade Center,21
+Seaport,Astoria,21
+JFK Airport,Central Harlem,21
+Central Harlem,JFK Airport,21
+Garment District,Washington Heights North,21
+JFK Airport,Upper West Side North,21
+UN/Turtle Bay South,Yorkville West,21
+Penn Station/Madison Sq West,Gramercy,21
+Garment District,Upper West Side North,21
+Washington Heights North,Upper East Side South,21
+Upper West Side North,Bushwick South,21
+Greenwich Village South,World Trade Center,21
+Lincoln Square West,East Harlem North,21
+Financial District South,Central Park,21
+Central Park,Astoria,21
+Two Bridges/Seward Park,Upper West Side North,21
+Two Bridges/Seward Park,Seaport,20
+TriBeCa/Civic Center,Lenox Hill East,20
+Clinton West,Lenox Hill West,20
+LaGuardia Airport,Clinton West,20
+Financial District South,West Chelsea/Hudson Yards,20
+Greenwich Village South,Bloomingdale,20
+East Harlem North,West Village,20
+Murray Hill,UN/Turtle Bay South,20
+Lower East Side,Midtown North,20
+UN/Turtle Bay South,LaGuardia Airport,20
+LaGuardia Airport,Washington Heights North,20
+Yorkville West,West Village,20
+TriBeCa/Civic Center,Financial District North,20
+Newark Airport,TriBeCa/Civic Center,20
+Alphabet City,Alphabet City,20
+Bloomingdale,Greenwich Village South,20
+Greenwich Village South,Alphabet City,20
+UN/Turtle Bay South,Midtown North,20
+Seaport,Central Park,20
+Bushwick South,Financial District South,20
+West Village,Midtown Center,20
+Lenox Hill East,Meatpacking/West Village West,20
+SoHo,Upper East Side North,20
+Murray Hill,Times Sq/Theatre District,20
+Midtown North,Greenwich Village South,20
+West Chelsea/Hudson Yards,Midtown Center,20
+Lower East Side,Seaport,20
+TriBeCa/Civic Center,Flatiron,20
+Alphabet City,Financial District South,20
+UN/Turtle Bay South,Seaport,20
+Gramercy,Stuy Town/Peter Cooper Village,20
+Astoria,Murray Hill,20
+Central Park,Lincoln Square West,20
+Sutton Place/Turtle Bay North,Hudson Sq,20
+JFK Airport,Greenwich Village North,20
+Sutton Place/Turtle Bay North,Newark Airport,20
+Lower East Side,Meatpacking/West Village West,20
+East Village,Two Bridges/Seward Park,20
+Financial District South,Midtown Center,20
+Greenwich Village South,Garment District,20
+East Chelsea,World Trade Center,20
+Washington Heights North,Two Bridges/Seward Park,20
+Manhattan Valley,Central Park,20
+Penn Station/Madison Sq West,SoHo,20
+Upper West Side South,Manhattan Valley,20
+Seaport,Union Sq,20
+Brooklyn Heights,Yorkville East,20
+Upper East Side North,Sutton Place/Turtle Bay North,20
+Washington Heights South,Central Harlem,20
+LaGuardia Airport,Meatpacking/West Village West,20
+Clinton West,Sutton Place/Turtle Bay North,20
+Garment District,World Trade Center,20
+Yorkville East,Greenwich Village North,20
+JFK Airport,Clinton West,20
+East Village,East Village,20
+Bloomingdale,Upper West Side South,20
+UN/Turtle Bay South,Bedford,20
+Sutton Place/Turtle Bay North,Murray Hill,20
+Newark Airport,Midtown North,20
+Washington Heights North,Lenox Hill East,20
+West Chelsea/Hudson Yards,Gramercy,20
+Greenwich Village South,Upper West Side North,20
+TriBeCa/Civic Center,Newark Airport,20
+JFK Airport,Clinton East,20
+Upper West Side North,Financial District North,20
+Lincoln Square East,Flatiron,20
+Garment District,Bushwick South,20
+TriBeCa/Civic Center,Lenox Hill West,20
+UN/Turtle Bay South,Bloomingdale,20
+Astoria,Midtown Center,20
+Two Bridges/Seward Park,West Village,20
+Stuy Town/Peter Cooper Village,Washington Heights North,20
+Brooklyn Heights,UN/Turtle Bay South,20
+Meatpacking/West Village West,West Chelsea/Hudson Yards,20
+Battery Park City,Bedford,20
+Upper West Side South,Clinton West,20
+West Chelsea/Hudson Yards,Financial District North,20
+UN/Turtle Bay South,Upper East Side North,20
+Stuy Town/Peter Cooper Village,Greenwich Village North,20
+UN/Turtle Bay South,World Trade Center,20
+Battery Park,Murray Hill,20
+East Chelsea,Lincoln Square West,20
+Alphabet City,Two Bridges/Seward Park,20
+Garment District,Upper East Side North,20
+Midtown East,TriBeCa/Civic Center,20
+Clinton East,Penn Station/Madison Sq West,20
+West Village,Brooklyn Heights,20
+Hudson Sq,Brooklyn Heights,20
+Bushwick South,Newark Airport,20
+Lenox Hill East,TriBeCa/Civic Center,20
+TriBeCa/Civic Center,Astoria,20
+East Village,Times Sq/Theatre District,20
+Upper West Side North,Upper East Side South,20
+World Trade Center,World Trade Center,20
+Central Harlem,Washington Heights South,20
+Lincoln Square West,Lincoln Square West,20
+Seaport,Penn Station/Madison Sq West,20
+Upper East Side North,Washington Heights South,20
+Times Sq/Theatre District,Lenox Hill East,20
+Midtown Center,Lenox Hill East,20
+Clinton West,JFK Airport,20
+West Village,Flatiron,20
+Garment District,Lower East Side,20
+Greenwich Village South,Greenwich Village North,20
+Lenox Hill West,Murray Hill,20
+JFK Airport,Midtown Center,20
+Yorkville East,Flatiron,20
+Lenox Hill East,East Village,20
+Upper East Side South,Manhattan Valley,20
+Washington Heights North,Central Park,20
+World Trade Center,East Village,20
+Lower East Side,Lenox Hill East,20
+Flatiron,SoHo,20
+Astoria,Yorkville West,20
+West Chelsea/Hudson Yards,Washington Heights South,20
+East Harlem North,TriBeCa/Civic Center,20
+Midtown Center,Lenox Hill West,20
+Bedford,Stuy Town/Peter Cooper Village,20
+East Village,Central Harlem,20
+Bedford,Sutton Place/Turtle Bay North,20
+Yorkville East,Financial District South,20
+Garment District,Gramercy,19
+East Chelsea,Hudson Sq,19
+Seaport,Manhattan Valley,19
+Midtown East,Lenox Hill East,19
+TriBeCa/Civic Center,Yorkville East,19
+Garment District,Greenwich Village South,19
+Greenwich Village South,Clinton West,19
+Two Bridges/Seward Park,Flatiron,19
+Seaport,TriBeCa/Civic Center,19
+Midtown North,Central Park,19
+Greenwich Village South,West Chelsea/Hudson Yards,19
+Flatiron,UN/Turtle Bay South,19
+Lenox Hill West,Greenwich Village North,19
+World Trade Center,LaGuardia Airport,19
+Financial District North,Yorkville East,19
+Lenox Hill West,Sutton Place/Turtle Bay North,19
+Seaport,World Trade Center,19
+UN/Turtle Bay South,Stuy Town/Peter Cooper Village,19
+Clinton West,Bushwick South,19
+JFK Airport,LaGuardia Airport,19
+East Village,East Chelsea,19
+Yorkville West,Times Sq/Theatre District,19
+Bedford,Astoria,19
+Manhattan Valley,Midtown East,19
+Lincoln Square East,Upper East Side South,19
+Upper East Side South,Yorkville West,19
+Penn Station/Madison Sq West,Penn Station/Madison Sq West,19
+Midtown Center,Upper East Side North,19
+Yorkville West,East Village,19
+Bloomingdale,Hudson Sq,19
+TriBeCa/Civic Center,JFK Airport,19
+SoHo,West Village,19
+Upper West Side North,Clinton West,19
+Central Harlem,East Harlem North,19
+Midtown North,West Chelsea/Hudson Yards,19
+Brooklyn Heights,Yorkville West,19
+Murray Hill,Astoria,19
+Murray Hill,Bedford,19
+Lower East Side,Gramercy,19
+Financial District South,Gramercy,19
+Central Park,Yorkville West,19
+Clinton West,West Chelsea/Hudson Yards,19
+Brooklyn Heights,Gramercy,19
+Battery Park,TriBeCa/Civic Center,19
+Hudson Sq,Battery Park,19
+Washington Heights South,Alphabet City,19
+Alphabet City,Bedford,19
+Battery Park,Greenwich Village South,19
+East Village,Bedford,19
+Newark Airport,Bushwick South,19
+Battery Park City,Washington Heights North,19
+Washington Heights North,Lower East Side,19
+Central Harlem,Sutton Place/Turtle Bay North,19
+Murray Hill,Manhattan Valley,19
+Upper East Side North,Newark Airport,19
+Seaport,Lenox Hill East,19
+LaGuardia Airport,Hudson Sq,19
+Garment District,Financial District North,19
+East Chelsea,East Village,19
+Seaport,Brooklyn Heights,19
+Yorkville East,World Trade Center,19
+Bushwick South,Midtown South,19
+Bushwick South,Garment District,19
+UN/Turtle Bay South,Greenwich Village South,19
+Brooklyn Heights,Penn Station/Madison Sq West,19
+UN/Turtle Bay South,Lenox Hill East,19
+Flatiron,Bushwick South,19
+East Village,West Village,19
+Bloomingdale,Midtown North,19
+Astoria,JFK Airport,19
+Bushwick South,Alphabet City,19
+LaGuardia Airport,Alphabet City,19
+West Village,JFK Airport,19
+Alphabet City,Sutton Place/Turtle Bay North,19
+TriBeCa/Civic Center,Union Sq,19
+Central Park,Union Sq,19
+UN/Turtle Bay South,Central Park,19
+Gramercy,Brooklyn Heights,19
+Washington Heights South,Washington Heights South,19
+TriBeCa/Civic Center,Meatpacking/West Village West,19
+Clinton West,Clinton West,19
+Lower East Side,Clinton East,19
+LaGuardia Airport,Newark Airport,19
+Sutton Place/Turtle Bay North,West Chelsea/Hudson Yards,19
+Garment District,Central Harlem,19
+Upper East Side South,Murray Hill,19
+Meatpacking/West Village West,LaGuardia Airport,19
+Murray Hill,Central Harlem,19
+Seaport,Times Sq/Theatre District,19
+West Chelsea/Hudson Yards,Clinton West,19
+Central Park,West Village,19
+Newark Airport,Lincoln Square East,19
+Central Harlem,Upper East Side South,19
+Battery Park City,Washington Heights South,19
+Clinton West,Upper West Side North,19
+Upper East Side North,Two Bridges/Seward Park,19
+Midtown East,Yorkville East,19
+Flatiron,Battery Park City,19
+Gramercy,TriBeCa/Civic Center,19
+Meatpacking/West Village West,Lincoln Square West,19
+Two Bridges/Seward Park,JFK Airport,19
+Gramercy,Lincoln Square West,19
+UN/Turtle Bay South,East Chelsea,19
+Murray Hill,Union Sq,19
+Garment District,Union Sq,19
+SoHo,Stuy Town/Peter Cooper Village,19
+East Chelsea,Astoria,19
+Lincoln Square East,Stuy Town/Peter Cooper Village,19
+Midtown North,Murray Hill,19
+Midtown South,SoHo,19
+Greenwich Village North,Brooklyn Heights,19
+East Village,East Harlem North,19
+Bedford,Clinton East,19
+Midtown North,Seaport,19
+Meatpacking/West Village West,Alphabet City,19
+Garment District,Hudson Sq,19
+Union Sq,Hudson Sq,19
+Bedford,Midtown South,19
+Financial District North,Two Bridges/Seward Park,19
+West Chelsea/Hudson Yards,Central Harlem,19
+Washington Heights North,Upper West Side South,19
+Greenwich Village South,Lower East Side,19
+Lincoln Square West,LaGuardia Airport,19
+Two Bridges/Seward Park,Gramercy,19
+Hudson Sq,Two Bridges/Seward Park,19
+Sutton Place/Turtle Bay North,Flatiron,19
+Upper West Side South,Flatiron,19
+Astoria,Flatiron,19
+SoHo,Newark Airport,19
+Lenox Hill East,SoHo,19
+Bedford,West Chelsea/Hudson Yards,19
+Clinton East,Bedford,19
+Bedford,Seaport,19
+LaGuardia Airport,Midtown East,19
+TriBeCa/Civic Center,Gramercy,19
+Lincoln Square East,Garment District,19
+Lower East Side,Bushwick South,19
+Astoria,Times Sq/Theatre District,19
+Sutton Place/Turtle Bay North,SoHo,19
+Hudson Sq,Midtown North,19
+Central Harlem,Newark Airport,19
+Upper West Side North,Gramercy,19
+Stuy Town/Peter Cooper Village,Garment District,19
+UN/Turtle Bay South,Clinton West,19
+Midtown East,Lincoln Square East,19
+Two Bridges/Seward Park,Bedford,19
+East Village,Upper West Side South,19
+Midtown North,JFK Airport,19
+Bedford,World Trade Center,19
+Astoria,TriBeCa/Civic Center,19
+TriBeCa/Civic Center,Battery Park,19
+Battery Park,Lower East Side,19
+Midtown East,Upper West Side North,19
+Newark Airport,Seaport,19
+Yorkville West,Astoria,19
+World Trade Center,TriBeCa/Civic Center,19
+Bloomingdale,Clinton West,19
+West Chelsea/Hudson Yards,Meatpacking/West Village West,19
+Brooklyn Heights,Brooklyn Heights,19
+Upper West Side North,Upper West Side North,19
+East Village,Sutton Place/Turtle Bay North,19
+Clinton West,Financial District South,19
+Upper East Side North,Upper West Side South,19
+Central Park,Greenwich Village North,19
+Times Sq/Theatre District,Hudson Sq,19
+Lenox Hill East,JFK Airport,19
+Upper West Side South,Garment District,18
+Upper East Side North,Murray Hill,18
+Lincoln Square West,East Village,18
+Central Park,East Village,18
+Greenwich Village North,Bloomingdale,18
+Brooklyn Heights,Upper East Side South,18
+Manhattan Valley,Central Harlem,18
+Midtown South,Central Park,18
+East Chelsea,Yorkville West,18
+Central Park,Bloomingdale,18
+Lincoln Square East,Upper East Side North,18
+TriBeCa/Civic Center,Alphabet City,18
+Flatiron,JFK Airport,18
+Greenwich Village North,Washington Heights South,18
+Garment District,Battery Park,18
+TriBeCa/Civic Center,World Trade Center,18
+Bedford,Upper West Side North,18
+Two Bridges/Seward Park,Bushwick South,18
+Battery Park,Central Park,18
+Washington Heights South,Lincoln Square West,18
+Upper West Side North,Lincoln Square West,18
+East Village,Battery Park,18
+Gramercy,Financial District South,18
+Upper West Side North,SoHo,18
+Manhattan Valley,Union Sq,18
+Greenwich Village North,Stuy Town/Peter Cooper Village,18
+Clinton East,Central Park,18
+Central Harlem,Battery Park,18
+Brooklyn Heights,TriBeCa/Civic Center,18
+Upper West Side North,Upper West Side South,18
+Midtown East,West Village,18
+Stuy Town/Peter Cooper Village,Battery Park,18
+West Chelsea/Hudson Yards,Financial District South,18
+Sutton Place/Turtle Bay North,Central Harlem,18
+Washington Heights North,Yorkville East,18
+Gramercy,Washington Heights South,18
+East Harlem North,Midtown South,18
+Upper East Side North,Washington Heights North,18
+Greenwich Village South,Bedford,18
+Upper East Side North,Midtown North,18
+Union Sq,Lincoln Square West,18
+Upper West Side South,Central Harlem,18
+Clinton East,West Village,18
+Penn Station/Madison Sq West,Battery Park City,18
+World Trade Center,Meatpacking/West Village West,18
+Battery Park City,Central Harlem,18
+Meatpacking/West Village West,JFK Airport,18
+Financial District North,Sutton Place/Turtle Bay North,18
+Lenox Hill West,Brooklyn Heights,18
+Midtown North,LaGuardia Airport,18
+Astoria,Midtown South,18
+West Chelsea/Hudson Yards,Lenox Hill East,18
+Penn Station/Madison Sq West,East Harlem North,18
+SoHo,Upper West Side North,18
+Washington Heights South,Bloomingdale,18
+Washington Heights North,Astoria,18
+Two Bridges/Seward Park,Stuy Town/Peter Cooper Village,18
+Greenwich Village North,Two Bridges/Seward Park,18
+Union Sq,Financial District South,18
+Garment District,Lenox Hill East,18
+Murray Hill,Upper East Side North,18
+Midtown North,Upper West Side North,18
+Union Sq,Bedford,18
+Seaport,Alphabet City,18
+Yorkville West,Midtown North,18
+Financial District North,Upper West Side North,18
+Penn Station/Madison Sq West,Central Park,18
+Clinton East,Upper West Side North,18
+Greenwich Village South,East Harlem North,18
+SoHo,Battery Park,18
+Midtown North,Washington Heights North,18
+Brooklyn Heights,Greenwich Village North,18
+East Village,Union Sq,18
+Midtown East,World Trade Center,18
+Flatiron,Union Sq,18
+Yorkville East,Clinton East,18
+Stuy Town/Peter Cooper Village,Two Bridges/Seward Park,18
+Central Harlem,Flatiron,18
+JFK Airport,Lincoln Square West,18
+Clinton East,Yorkville West,18
+East Chelsea,Seaport,18
+Upper West Side South,Stuy Town/Peter Cooper Village,18
+LaGuardia Airport,UN/Turtle Bay South,18
+LaGuardia Airport,Lenox Hill East,18
+Bushwick South,Hudson Sq,18
+Lenox Hill East,Bedford,18
+Times Sq/Theatre District,Washington Heights South,18
+Seaport,Murray Hill,18
+World Trade Center,West Village,18
+Seaport,Upper West Side North,18
+Upper East Side South,Bloomingdale,18
+Two Bridges/Seward Park,Upper West Side South,18
+TriBeCa/Civic Center,Upper West Side South,18
+Lenox Hill East,Clinton East,18
+Bedford,Midtown Center,18
+LaGuardia Airport,Gramercy,18
+Lincoln Square East,Financial District North,18
+Hudson Sq,Upper East Side South,18
+Newark Airport,Sutton Place/Turtle Bay North,18
+Sutton Place/Turtle Bay North,Central Park,18
+Midtown North,UN/Turtle Bay South,18
+TriBeCa/Civic Center,Greenwich Village South,18
+Two Bridges/Seward Park,Washington Heights South,18
+East Village,Greenwich Village North,18
+Battery Park City,Midtown East,18
+Union Sq,East Chelsea,18
+Newark Airport,East Chelsea,18
+Central Harlem,East Village,18
+Yorkville West,Bloomingdale,18
+Manhattan Valley,East Village,18
+Central Park,Battery Park City,18
+Garment District,East Harlem North,18
+Newark Airport,Garment District,18
+Times Sq/Theatre District,Newark Airport,18
+Astoria,Bedford,18
+Washington Heights North,Hudson Sq,18
+Lenox Hill East,Central Park,18
+Meatpacking/West Village West,West Village,18
+Yorkville East,Washington Heights South,18
+Midtown East,Clinton East,18
+Clinton West,Financial District North,18
+Lenox Hill East,Brooklyn Heights,18
+West Village,Financial District North,18
+Times Sq/Theatre District,Upper East Side South,18
+Financial District South,Upper West Side North,18
+East Harlem North,Central Park,18
+Stuy Town/Peter Cooper Village,JFK Airport,18
+Yorkville West,East Harlem North,18
+Gramercy,Seaport,18
+Hudson Sq,Greenwich Village South,18
+Newark Airport,Washington Heights North,18
+Gramercy,Battery Park,18
+Clinton West,Central Park,18
+Lenox Hill East,Battery Park,18
+Upper East Side North,Bloomingdale,18
+Upper East Side North,Flatiron,18
+Central Harlem,Alphabet City,18
+Bushwick South,Times Sq/Theatre District,18
+SoHo,Astoria,18
+Financial District North,Lincoln Square East,18
+Yorkville West,Clinton East,18
+JFK Airport,Financial District South,18
+UN/Turtle Bay South,Gramercy,18
+Battery Park City,Midtown South,18
+Yorkville East,Bloomingdale,18
+Yorkville West,Midtown South,18
+Battery Park City,Battery Park,18
+Battery Park City,Midtown North,18
+Bloomingdale,Washington Heights South,18
+Upper West Side North,Midtown Center,18
+Times Sq/Theatre District,Alphabet City,18
+Lenox Hill West,UN/Turtle Bay South,18
+Times Sq/Theatre District,Bloomingdale,18
+Midtown East,Midtown East,18
+Meatpacking/West Village West,Hudson Sq,18
+JFK Airport,UN/Turtle Bay South,18
+Clinton West,SoHo,18
+Flatiron,Washington Heights South,18
+Bloomingdale,Astoria,18
+Upper East Side South,Midtown Center,18
+Midtown East,Lower East Side,18
+Washington Heights South,Flatiron,18
+Financial District North,East Village,18
+Brooklyn Heights,Meatpacking/West Village West,18
+Lincoln Square West,Union Sq,18
+East Harlem North,Lincoln Square East,18
+Yorkville East,Washington Heights North,18
+Yorkville West,Bushwick South,18
+Gramercy,Manhattan Valley,18
+Greenwich Village North,Seaport,18
+Meatpacking/West Village West,Gramercy,18
+Financial District South,Bloomingdale,18
+UN/Turtle Bay South,Sutton Place/Turtle Bay North,18
+World Trade Center,Central Park,18
+West Village,Yorkville East,18
+Financial District South,Upper West Side South,18
+Yorkville West,Greenwich Village South,18
+Clinton East,Battery Park City,18
+Washington Heights South,Bedford,18
+Stuy Town/Peter Cooper Village,Central Park,18
+Murray Hill,Flatiron,18
+Upper West Side South,Financial District South,18
+Bedford,SoHo,18
+Clinton East,Manhattan Valley,18
+Yorkville West,Washington Heights South,18
+East Harlem North,Midtown Center,18
+Yorkville East,Yorkville West,18
+Garment District,Two Bridges/Seward Park,18
+Upper West Side South,West Chelsea/Hudson Yards,18
+Financial District South,Lower East Side,18
+Yorkville East,TriBeCa/Civic Center,18
+Yorkville East,Midtown South,18
+Lincoln Square East,East Village,18
+Central Park,JFK Airport,18
+Manhattan Valley,Penn Station/Madison Sq West,18
+West Chelsea/Hudson Yards,Battery Park,18
+Union Sq,Union Sq,18
+Brooklyn Heights,Central Harlem,18
+Yorkville West,JFK Airport,18
+Central Park,Midtown North,18
+Yorkville West,Battery Park,18
+Brooklyn Heights,Clinton East,18
+Financial District North,Central Park,18
+Central Park,UN/Turtle Bay South,18
+TriBeCa/Civic Center,East Chelsea,18
+East Harlem North,Clinton East,18
+World Trade Center,Midtown East,18
+Washington Heights South,SoHo,17
+Central Harlem,Midtown East,17
+Two Bridges/Seward Park,Lincoln Square East,17
+JFK Airport,Brooklyn Heights,17
+Bloomingdale,Upper East Side South,17
+Central Park,Lenox Hill East,17
+Flatiron,Upper East Side North,17
+Battery Park,Midtown North,17
+Manhattan Valley,Upper West Side North,17
+Yorkville West,TriBeCa/Civic Center,17
+TriBeCa/Civic Center,West Chelsea/Hudson Yards,17
+West Chelsea/Hudson Yards,UN/Turtle Bay South,17
+Lenox Hill West,JFK Airport,17
+Union Sq,Bushwick South,17
+Financial District North,East Chelsea,17
+East Harlem North,East Chelsea,17
+Midtown South,Bedford,17
+World Trade Center,Alphabet City,17
+Murray Hill,Lenox Hill East,17
+Battery Park City,Meatpacking/West Village West,17
+Yorkville East,Lower East Side,17
+West Village,Lower East Side,17
+Newark Airport,Upper West Side South,17
+Lenox Hill West,Upper West Side North,17
+World Trade Center,Upper East Side North,17
+LaGuardia Airport,Midtown North,17
+Brooklyn Heights,Astoria,17
+SoHo,Murray Hill,17
+Penn Station/Madison Sq West,Battery Park,17
+Financial District North,Alphabet City,17
+Financial District North,Midtown East,17
+Midtown Center,Upper West Side North,17
+Brooklyn Heights,LaGuardia Airport,17
+Central Park,Midtown Center,17
+TriBeCa/Civic Center,Lincoln Square East,17
+West Village,Two Bridges/Seward Park,17
+Hudson Sq,Garment District,17
+Manhattan Valley,Sutton Place/Turtle Bay North,17
+Meatpacking/West Village West,East Harlem North,17
+Greenwich Village South,Lenox Hill West,17
+Brooklyn Heights,Battery Park City,17
+Battery Park,East Chelsea,17
+Upper East Side South,Newark Airport,17
+Brooklyn Heights,West Village,17
+Washington Heights North,Greenwich Village South,17
+Lincoln Square East,Upper West Side North,17
+Yorkville West,Murray Hill,17
+Murray Hill,Yorkville West,17
+Central Harlem,Meatpacking/West Village West,17
+East Village,Bushwick South,17
+SoHo,Financial District North,17
+Clinton East,Clinton West,17
+Astoria,Washington Heights North,17
+UN/Turtle Bay South,Financial District North,17
+Lincoln Square West,Bedford,17
+Lenox Hill West,Gramercy,17
+LaGuardia Airport,Central Park,17
+Financial District North,Midtown North,17
+West Chelsea/Hudson Yards,Greenwich Village South,17
+Battery Park City,JFK Airport,17
+Midtown South,Clinton East,17
+Lenox Hill West,Penn Station/Madison Sq West,17
+Stuy Town/Peter Cooper Village,SoHo,17
+Washington Heights North,West Chelsea/Hudson Yards,17
+Washington Heights North,East Village,17
+Financial District North,Lenox Hill West,17
+Bushwick South,Greenwich Village North,17
+Newark Airport,Washington Heights South,17
+Bedford,LaGuardia Airport,17
+Upper East Side South,West Chelsea/Hudson Yards,17
+Lenox Hill West,Garment District,17
+Alphabet City,Gramercy,17
+Seaport,Washington Heights North,17
+Manhattan Valley,JFK Airport,17
+Penn Station/Madison Sq West,Murray Hill,17
+Battery Park City,Union Sq,17
+Two Bridges/Seward Park,Greenwich Village North,17
+Newark Airport,Battery Park,17
+Astoria,Midtown North,17
+LaGuardia Airport,Manhattan Valley,17
+Meatpacking/West Village West,Central Park,17
+Flatiron,Lower East Side,17
+Upper West Side South,Lenox Hill West,17
+Financial District South,Stuy Town/Peter Cooper Village,17
+Washington Heights North,Central Harlem,17
+Washington Heights North,Lenox Hill West,17
+SoHo,Lenox Hill East,17
+Manhattan Valley,West Village,17
+Yorkville East,Lenox Hill West,17
+Bedford,Financial District South,17
+West Village,Hudson Sq,17
+Yorkville West,Brooklyn Heights,17
+Upper East Side North,World Trade Center,17
+Central Harlem,Penn Station/Madison Sq West,17
+Upper West Side South,Midtown East,17
+Midtown East,Upper East Side North,17
+Yorkville West,Battery Park City,17
+Manhattan Valley,Washington Heights South,17
+Clinton West,Lincoln Square West,17
+Union Sq,Gramercy,17
+TriBeCa/Civic Center,LaGuardia Airport,17
+Seaport,Bloomingdale,17
+Murray Hill,Gramercy,17
+Midtown North,Gramercy,17
+Lenox Hill West,Seaport,17
+Times Sq/Theatre District,Lower East Side,17
+Greenwich Village South,SoHo,17
+Meatpacking/West Village West,Lower East Side,17
+Upper West Side North,Washington Heights North,17
+Union Sq,SoHo,17
+Sutton Place/Turtle Bay North,Astoria,17
+Lenox Hill East,Garment District,17
+Garment District,Bloomingdale,17
+Brooklyn Heights,Lenox Hill West,17
+Battery Park City,Astoria,17
+Astoria,Seaport,17
+Lincoln Square East,Penn Station/Madison Sq West,17
+World Trade Center,Central Harlem,17
+Battery Park,Central Harlem,17
+Washington Heights South,LaGuardia Airport,17
+Seaport,Seaport,17
+Bedford,Gramercy,17
+Union Sq,Upper East Side North,17
+Upper East Side South,Stuy Town/Peter Cooper Village,17
+Penn Station/Madison Sq West,Financial District South,17
+Financial District North,Brooklyn Heights,17
+East Harlem North,Upper East Side North,17
+Stuy Town/Peter Cooper Village,Brooklyn Heights,17
+Battery Park City,Financial District North,17
+Newark Airport,Greenwich Village South,17
+Bushwick South,LaGuardia Airport,17
+Central Park,Brooklyn Heights,17
+Greenwich Village North,Financial District South,17
+Murray Hill,Yorkville East,17
+Midtown Center,Bedford,17
+Greenwich Village North,Washington Heights North,17
+World Trade Center,Battery Park,17
+Bloomingdale,JFK Airport,17
+Seaport,Lower East Side,17
+Midtown Center,Union Sq,17
+Midtown South,Times Sq/Theatre District,17
+Clinton West,Upper East Side North,17
+West Chelsea/Hudson Yards,Bedford,17
+East Harlem North,World Trade Center,17
+Times Sq/Theatre District,Astoria,17
+West Village,East Harlem North,17
+Clinton West,Two Bridges/Seward Park,17
+Lower East Side,Lower East Side,17
+Greenwich Village North,East Harlem North,17
+Garment District,Lenox Hill West,17
+Clinton East,LaGuardia Airport,17
+Battery Park,Brooklyn Heights,17
+East Village,World Trade Center,17
+Manhattan Valley,Lincoln Square West,17
+Central Park,Murray Hill,17
+Two Bridges/Seward Park,Lenox Hill East,17
+East Harlem North,Brooklyn Heights,17
+Midtown Center,Sutton Place/Turtle Bay North,17
+Gramercy,Financial District North,17
+TriBeCa/Civic Center,Bushwick South,17
+Yorkville East,Manhattan Valley,17
+LaGuardia Airport,SoHo,17
+LaGuardia Airport,TriBeCa/Civic Center,17
+East Chelsea,Gramercy,17
+Manhattan Valley,Lower East Side,17
+Bloomingdale,Clinton East,17
+SoHo,Upper East Side South,17
+Times Sq/Theatre District,East Harlem North,17
+Greenwich Village South,Battery Park,17
+Lincoln Square West,Astoria,17
+Midtown South,Lenox Hill West,17
+Alphabet City,Washington Heights South,17
+Two Bridges/Seward Park,West Chelsea/Hudson Yards,17
+Stuy Town/Peter Cooper Village,Seaport,17
+Stuy Town/Peter Cooper Village,Washington Heights South,17
+Flatiron,Hudson Sq,17
+Lincoln Square East,Bushwick South,17
+Washington Heights North,Lincoln Square East,17
+Lincoln Square West,Battery Park,17
+Gramercy,Two Bridges/Seward Park,17
+Upper East Side South,Bushwick South,17
+Clinton West,Union Sq,17
+Upper West Side South,Yorkville West,17
+SoHo,TriBeCa/Civic Center,17
+Midtown North,TriBeCa/Civic Center,17
+Midtown Center,Bloomingdale,17
+Upper East Side South,Flatiron,17
+Central Harlem,Battery Park City,17
+Bloomingdale,East Harlem North,17
+Upper East Side North,UN/Turtle Bay South,17
+Garment District,Lincoln Square East,17
+Lenox Hill East,Upper West Side North,17
+Newark Airport,Midtown East,17
+Lincoln Square West,Greenwich Village South,17
+Newark Airport,Gramercy,17
+West Chelsea/Hudson Yards,Murray Hill,17
+East Chelsea,Union Sq,17
+East Chelsea,Brooklyn Heights,17
+Battery Park,Midtown Center,17
+Midtown North,Lincoln Square West,17
+Greenwich Village South,East Chelsea,17
+Upper West Side North,Garment District,17
+Garment District,Clinton West,17
+Greenwich Village South,LaGuardia Airport,17
+Greenwich Village South,Times Sq/Theatre District,17
+Washington Heights South,Lenox Hill East,17
+Stuy Town/Peter Cooper Village,Upper East Side South,17
+Battery Park,JFK Airport,17
+Upper East Side South,Upper East Side South,17
+Two Bridges/Seward Park,Midtown Center,17
+Murray Hill,Central Park,17
+Hudson Sq,Alphabet City,17
+Midtown Center,Gramercy,17
+West Village,Alphabet City,17
+Stuy Town/Peter Cooper Village,Manhattan Valley,17
+Washington Heights South,JFK Airport,17
+Central Harlem,East Chelsea,17
+Alphabet City,Upper West Side North,17
+Clinton East,Flatiron,17
+Midtown South,TriBeCa/Civic Center,17
+Greenwich Village South,Stuy Town/Peter Cooper Village,17
+Upper West Side North,Battery Park,17
+Central Park,Lincoln Square East,17
+Stuy Town/Peter Cooper Village,Hudson Sq,17
+Financial District North,Washington Heights South,17
+Central Park,Times Sq/Theatre District,17
+Brooklyn Heights,Lincoln Square East,17
+Battery Park,Battery Park City,17
+Greenwich Village South,Lincoln Square East,17
+East Chelsea,Central Park,17
+West Chelsea/Hudson Yards,East Village,17
+Hudson Sq,SoHo,17
+Midtown North,Clinton West,17
+Yorkville West,Yorkville West,17
+Midtown Center,Upper West Side South,17
+Flatiron,Lincoln Square East,17
+Lincoln Square West,Meatpacking/West Village West,16
+Penn Station/Madison Sq West,Clinton East,16
+Sutton Place/Turtle Bay North,Two Bridges/Seward Park,16
+Bushwick South,East Harlem North,16
+Midtown South,JFK Airport,16
+Greenwich Village North,Upper East Side South,16
+Flatiron,Two Bridges/Seward Park,16
+Financial District North,UN/Turtle Bay South,16
+Garment District,Astoria,16
+World Trade Center,Lower East Side,16
+Times Sq/Theatre District,Times Sq/Theatre District,16
+Bloomingdale,East Village,16
+Union Sq,Midtown Center,16
+Lenox Hill West,Lenox Hill East,16
+Manhattan Valley,East Harlem North,16
+Flatiron,Central Park,16
+East Chelsea,SoHo,16
+Stuy Town/Peter Cooper Village,Midtown South,16
+Hudson Sq,Clinton West,16
+Bloomingdale,Newark Airport,16
+Bedford,Meatpacking/West Village West,16
+Lincoln Square East,Bedford,16
+Greenwich Village North,Lenox Hill East,16
+Yorkville East,LaGuardia Airport,16
+Hudson Sq,East Harlem North,16
+Greenwich Village South,Union Sq,16
+Upper West Side South,Seaport,16
+Midtown South,Midtown Center,16
+Flatiron,Newark Airport,16
+TriBeCa/Civic Center,Midtown East,16
+Lincoln Square West,Upper East Side South,16
+Clinton East,Lenox Hill West,16
+Upper East Side South,Washington Heights South,16
+Clinton East,Financial District North,16
+Midtown North,Midtown Center,16
+Clinton West,Hudson Sq,16
+Astoria,Upper West Side South,16
+Greenwich Village South,Upper East Side North,16
+East Village,Gramercy,16
+Bedford,Clinton West,16
+Yorkville East,JFK Airport,16
+East Village,Washington Heights North,16
+West Village,Lenox Hill East,16
+Battery Park City,Gramercy,16
+Flatiron,Greenwich Village North,16
+Bushwick South,Astoria,16
+JFK Airport,Stuy Town/Peter Cooper Village,16
+Bedford,Flatiron,16
+LaGuardia Airport,Lincoln Square East,16
+Central Park,Penn Station/Madison Sq West,16
+World Trade Center,Lenox Hill East,16
+West Village,Clinton West,16
+Lower East Side,Two Bridges/Seward Park,16
+East Chelsea,Two Bridges/Seward Park,16
+Yorkville West,Garment District,16
+Bushwick South,Central Harlem,16
+Alphabet City,West Village,16
+Bloomingdale,Bloomingdale,16
+Brooklyn Heights,Central Park,16
+Upper East Side North,Battery Park,16
+Murray Hill,Washington Heights South,16
+Astoria,Astoria,16
+Bushwick South,Battery Park,16
+East Chelsea,Newark Airport,16
+Bedford,Alphabet City,16
+Lincoln Square West,Brooklyn Heights,16
+Union Sq,Lower East Side,16
+JFK Airport,Yorkville West,16
+East Village,Lincoln Square West,16
+Upper West Side South,World Trade Center,16
+Bloomingdale,Lenox Hill East,16
+Upper East Side North,Upper East Side South,16
+Union Sq,Central Park,16
+East Harlem North,Lenox Hill East,16
+Clinton West,Gramercy,16
+Washington Heights South,Gramercy,16
+Central Harlem,Yorkville East,16
+Gramercy,Alphabet City,16
+Washington Heights North,Midtown Center,16
+Bedford,Battery Park City,16
+Garment District,Penn Station/Madison Sq West,16
+Financial District North,West Village,16
+Manhattan Valley,Upper East Side North,16
+Bloomingdale,Lower East Side,16
+Lincoln Square West,Manhattan Valley,16
+Midtown South,Yorkville West,16
+Lenox Hill East,Lower East Side,16
+Lenox Hill East,Lincoln Square East,16
+SoHo,Clinton East,16
+Upper West Side South,Alphabet City,16
+Hudson Sq,Manhattan Valley,16
+Washington Heights South,Stuy Town/Peter Cooper Village,16
+Midtown North,Greenwich Village North,16
+Upper West Side South,SoHo,16
+Seaport,West Village,16
+Midtown East,Union Sq,16
+Financial District South,SoHo,16
+West Chelsea/Hudson Yards,Upper West Side North,16
+Lower East Side,Sutton Place/Turtle Bay North,16
+Midtown North,Financial District South,16
+East Village,Flatiron,16
+Upper West Side South,Clinton East,16
+Sutton Place/Turtle Bay North,Financial District North,16
+Washington Heights North,Alphabet City,16
+Lincoln Square East,Sutton Place/Turtle Bay North,16
+Central Park,LaGuardia Airport,16
+Two Bridges/Seward Park,Greenwich Village South,16
+Yorkville East,Upper East Side South,16
+Lincoln Square East,Midtown North,16
+Upper East Side South,Sutton Place/Turtle Bay North,16
+Lincoln Square East,Union Sq,16
+Penn Station/Madison Sq West,Alphabet City,16
+Washington Heights North,Clinton East,16
+Lenox Hill West,Greenwich Village South,16
+Greenwich Village South,Two Bridges/Seward Park,16
+Battery Park,Sutton Place/Turtle Bay North,16
+Midtown South,Stuy Town/Peter Cooper Village,16
+Greenwich Village South,Lincoln Square West,16
+Washington Heights North,Yorkville West,16
+West Chelsea/Hudson Yards,Flatiron,16
+Sutton Place/Turtle Bay North,Midtown East,16
+Newark Airport,Bedford,16
+Midtown North,Clinton East,16
+Hudson Sq,Flatiron,16
+Upper West Side South,TriBeCa/Civic Center,16
+LaGuardia Airport,West Chelsea/Hudson Yards,16
+UN/Turtle Bay South,Battery Park City,16
+East Harlem North,Bushwick South,16
+Upper East Side South,Astoria,16
+Greenwich Village North,West Village,16
+Financial District North,Astoria,16
+Midtown South,Astoria,16
+Brooklyn Heights,Midtown North,16
+Midtown North,Upper East Side South,16
+Murray Hill,LaGuardia Airport,16
+Yorkville West,Penn Station/Madison Sq West,16
+Battery Park,Midtown South,16
+Sutton Place/Turtle Bay North,Upper West Side South,16
+Battery Park City,West Chelsea/Hudson Yards,16
+Stuy Town/Peter Cooper Village,Midtown North,16
+Seaport,Greenwich Village North,16
+Seaport,Midtown East,16
+Bushwick South,Union Sq,16
+Union Sq,LaGuardia Airport,16
+Seaport,Clinton East,16
+Upper East Side North,Alphabet City,16
+Greenwich Village South,Murray Hill,16
+Gramercy,Sutton Place/Turtle Bay North,16
+Midtown Center,Lower East Side,16
+Brooklyn Heights,Upper West Side North,16
+LaGuardia Airport,Garment District,16
+LaGuardia Airport,Union Sq,16
+Financial District South,East Harlem North,16
+Midtown East,West Chelsea/Hudson Yards,16
+SoHo,Penn Station/Madison Sq West,16
+Lower East Side,Upper West Side South,16
+Penn Station/Madison Sq West,Meatpacking/West Village West,16
+West Chelsea/Hudson Yards,Union Sq,16
+Yorkville East,Midtown Center,16
+Gramercy,SoHo,16
+Gramercy,West Chelsea/Hudson Yards,16
+West Chelsea/Hudson Yards,LaGuardia Airport,16
+Manhattan Valley,Yorkville West,16
+TriBeCa/Civic Center,Garment District,16
+Lenox Hill East,Union Sq,16
+Upper West Side South,Upper East Side North,16
+Meatpacking/West Village West,Penn Station/Madison Sq West,16
+Clinton West,Alphabet City,16
+Upper West Side North,Manhattan Valley,16
+Brooklyn Heights,Bloomingdale,16
+Hudson Sq,Lincoln Square West,16
+Clinton East,Astoria,16
+Meatpacking/West Village West,UN/Turtle Bay South,16
+Garment District,Midtown Center,16
+Upper West Side North,Penn Station/Madison Sq West,16
+Lincoln Square East,Greenwich Village South,16
+Alphabet City,Clinton East,16
+Seaport,Sutton Place/Turtle Bay North,16
+Times Sq/Theatre District,Midtown Center,16
+Lower East Side,Alphabet City,16
+Flatiron,Upper West Side South,16
+Bushwick South,TriBeCa/Civic Center,16
+Lincoln Square West,Financial District South,16
+Murray Hill,Stuy Town/Peter Cooper Village,16
+Lincoln Square East,East Chelsea,16
+LaGuardia Airport,Two Bridges/Seward Park,16
+Clinton East,Garment District,16
+Garment District,Yorkville West,16
+Stuy Town/Peter Cooper Village,LaGuardia Airport,16
+Times Sq/Theatre District,Bushwick South,16
+Clinton West,Lower East Side,16
+Greenwich Village North,Garment District,16
+Upper East Side South,Yorkville East,16
+Penn Station/Madison Sq West,Financial District North,16
+East Harlem North,Upper West Side North,16
+Clinton West,Yorkville West,16
+Lincoln Square East,Central Harlem,16
+Union Sq,Battery Park,16
+Seaport,Clinton West,16
+Alphabet City,Midtown North,16
+LaGuardia Airport,Financial District North,16
+UN/Turtle Bay South,Washington Heights South,16
+Upper East Side South,Clinton East,16
+East Chelsea,Manhattan Valley,16
+Bloomingdale,Manhattan Valley,16
+Penn Station/Madison Sq West,Newark Airport,16
+Astoria,East Harlem North,16
+Financial District South,Greenwich Village North,16
+Murray Hill,Greenwich Village North,16
+JFK Airport,Midtown South,16
+Midtown North,Bedford,16
+West Village,Union Sq,16
+East Chelsea,Midtown South,16
+Midtown East,Yorkville West,16
+Murray Hill,JFK Airport,16
+Midtown Center,West Village,16
+Times Sq/Theatre District,Central Harlem,16
+UN/Turtle Bay South,West Chelsea/Hudson Yards,16
+Bloomingdale,Yorkville East,16
+Lenox Hill West,Financial District South,16
+Washington Heights North,Upper East Side North,16
+JFK Airport,Central Park,16
+TriBeCa/Civic Center,Clinton West,16
+West Chelsea/Hudson Yards,Midtown East,16
+Sutton Place/Turtle Bay North,Lenox Hill East,16
+Sutton Place/Turtle Bay North,West Village,16
+Bushwick South,Lower East Side,16
+Penn Station/Madison Sq West,Lincoln Square West,16
+Meatpacking/West Village West,Midtown Center,16
+Gramercy,Astoria,16
+Clinton East,TriBeCa/Civic Center,16
+Washington Heights North,East Harlem North,16
+Financial District North,Greenwich Village South,16
+Alphabet City,Battery Park City,16
+Greenwich Village North,Midtown East,16
+Brooklyn Heights,Battery Park,16
+Lenox Hill West,East Chelsea,16
+UN/Turtle Bay South,Midtown East,16
+Hudson Sq,Bedford,16
+Bloomingdale,Upper West Side North,16
+Midtown Center,Seaport,16
+SoHo,Seaport,16
+Upper West Side South,Lower East Side,16
+Times Sq/Theatre District,Financial District North,16
+Hudson Sq,Hudson Sq,16
+Lower East Side,Hudson Sq,16
+Flatiron,Greenwich Village South,16
+Financial District South,Lincoln Square West,16
+Union Sq,Upper West Side South,16
+Lenox Hill West,Lincoln Square West,16
+Upper East Side North,SoHo,16
+Lenox Hill West,Central Park,16
+Gramercy,Gramercy,16
+Washington Heights North,Midtown East,16
+Stuy Town/Peter Cooper Village,Lenox Hill West,16
+Central Harlem,Midtown Center,16
+Garment District,Midtown South,16
+Greenwich Village South,Financial District South,16
+Lincoln Square East,TriBeCa/Civic Center,16
+Washington Heights South,Upper West Side North,16
+Upper East Side South,West Village,16
+Alphabet City,Yorkville East,16
+Midtown Center,LaGuardia Airport,16
+Seaport,Newark Airport,16
+Upper West Side South,East Chelsea,16
+Stuy Town/Peter Cooper Village,Upper West Side South,16
+Midtown Center,Hudson Sq,16
+Greenwich Village North,Midtown North,16
+Lenox Hill East,Lincoln Square West,16
+Greenwich Village North,Midtown Center,16
+Clinton East,Midtown Center,16
+East Village,SoHo,16
+Battery Park City,Brooklyn Heights,16
+West Chelsea/Hudson Yards,Upper West Side South,16
+Yorkville West,Gramercy,16
+JFK Airport,Upper West Side South,16
+Financial District South,Astoria,16
+Midtown East,Financial District North,16
+Financial District South,Washington Heights North,16
+Upper West Side South,Hudson Sq,16
+Alphabet City,Astoria,16
+Garment District,Alphabet City,16
+Bloomingdale,SoHo,16
+Lincoln Square East,Bloomingdale,16
+Battery Park,Clinton West,16
+Lenox Hill West,Hudson Sq,16
+Washington Heights North,Battery Park,16
+Financial District North,Gramercy,16
+Flatiron,Financial District North,16
+Clinton East,Seaport,16
+Midtown East,UN/Turtle Bay South,16
+Washington Heights South,Brooklyn Heights,16
+Lenox Hill West,Financial District North,16
+Battery Park,Upper East Side South,16
+Upper West Side North,Washington Heights South,16
+Midtown South,Lincoln Square West,16
+TriBeCa/Civic Center,Bedford,16
+Upper West Side South,Washington Heights North,16
+Upper East Side South,World Trade Center,16
+UN/Turtle Bay South,UN/Turtle Bay South,16
+Lenox Hill West,Clinton East,16
+Upper East Side North,Brooklyn Heights,16
+Manhattan Valley,Financial District North,16
+Penn Station/Madison Sq West,Garment District,16
+Battery Park City,West Village,16
+Greenwich Village North,Manhattan Valley,16
+UN/Turtle Bay South,Central Harlem,16
+Alphabet City,JFK Airport,16
+TriBeCa/Civic Center,Brooklyn Heights,16
+Midtown East,Murray Hill,16
+Lincoln Square West,Washington Heights South,16
+Upper East Side South,Midtown East,16
+Lincoln Square East,Washington Heights North,16
+Upper East Side North,Stuy Town/Peter Cooper Village,16
+Gramercy,Flatiron,15
+East Harlem North,Lenox Hill West,15
+Garment District,East Chelsea,15
+Upper East Side South,Alphabet City,15
+Alphabet City,Lincoln Square West,15
+UN/Turtle Bay South,Meatpacking/West Village West,15
+Astoria,Penn Station/Madison Sq West,15
+Upper West Side North,Midtown North,15
+Washington Heights South,Upper West Side South,15
+TriBeCa/Civic Center,Two Bridges/Seward Park,15
+Times Sq/Theatre District,Upper East Side North,15
+Penn Station/Madison Sq West,Lenox Hill East,15
+Flatiron,West Village,15
+Greenwich Village South,UN/Turtle Bay South,15
+Meatpacking/West Village West,Financial District South,15
+Financial District South,Meatpacking/West Village West,15
+Midtown South,East Village,15
+Washington Heights North,Garment District,15
+Lincoln Square East,LaGuardia Airport,15
+Greenwich Village South,Astoria,15
+Two Bridges/Seward Park,Hudson Sq,15
+Battery Park,Bloomingdale,15
+Greenwich Village North,Hudson Sq,15
+Washington Heights South,West Chelsea/Hudson Yards,15
+Times Sq/Theatre District,Meatpacking/West Village West,15
+Sutton Place/Turtle Bay North,Greenwich Village North,15
+Midtown North,Newark Airport,15
+East Chelsea,Battery Park,15
+West Village,TriBeCa/Civic Center,15
+TriBeCa/Civic Center,Midtown South,15
+Upper West Side South,West Village,15
+TriBeCa/Civic Center,West Village,15
+Clinton West,Flatiron,15
+Lenox Hill West,Upper East Side South,15
+Midtown East,Battery Park City,15
+Astoria,Union Sq,15
+Washington Heights South,Two Bridges/Seward Park,15
+Greenwich Village North,Times Sq/Theatre District,15
+East Chelsea,TriBeCa/Civic Center,15
+Upper East Side South,SoHo,15
+Upper West Side North,JFK Airport,15
+Midtown North,Washington Heights South,15
+Yorkville East,Gramercy,15
+Lower East Side,World Trade Center,15
+UN/Turtle Bay South,Midtown Center,15
+Bushwick South,Central Park,15
+Battery Park City,Bushwick South,15
+Upper East Side South,JFK Airport,15
+JFK Airport,Garment District,15
+Upper East Side North,East Village,15
+Lower East Side,Yorkville West,15
+Lincoln Square East,Lenox Hill East,15
+Financial District North,Bedford,15
+Union Sq,Lenox Hill East,15
+Lincoln Square West,Bushwick South,15
+JFK Airport,East Chelsea,15
+Murray Hill,Midtown Center,15
+Two Bridges/Seward Park,Financial District South,15
+East Harlem North,Stuy Town/Peter Cooper Village,15
+East Village,Financial District South,15
+Battery Park City,Alphabet City,15
+Yorkville West,Washington Heights North,15
+LaGuardia Airport,Astoria,15
+Washington Heights South,West Village,15
+East Village,Stuy Town/Peter Cooper Village,15
+Newark Airport,JFK Airport,15
+East Village,Lenox Hill East,15
+Bushwick South,Financial District North,15
+Central Harlem,Midtown South,15
+Union Sq,Garment District,15
+Lincoln Square West,Murray Hill,15
+Penn Station/Madison Sq West,Lincoln Square East,15
+Midtown North,Lower East Side,15
+Lower East Side,Financial District South,15
+West Chelsea/Hudson Yards,Two Bridges/Seward Park,15
+Financial District North,Murray Hill,15
+TriBeCa/Civic Center,Central Park,15
+Bloomingdale,Bushwick South,15
+Washington Heights North,Murray Hill,15
+JFK Airport,World Trade Center,15
+Bedford,Battery Park,15
+Murray Hill,Lower East Side,15
+UN/Turtle Bay South,TriBeCa/Civic Center,15
+SoHo,Hudson Sq,15
+Financial District South,Seaport,15
+West Village,Seaport,15
+Lower East Side,Newark Airport,15
+Yorkville East,Lincoln Square West,15
+Flatiron,Garment District,15
+Union Sq,Two Bridges/Seward Park,15
+TriBeCa/Civic Center,Hudson Sq,15
+Midtown Center,Midtown North,15
+Yorkville East,West Village,15
+Financial District South,Midtown East,15
+Central Harlem,Stuy Town/Peter Cooper Village,15
+Garment District,LaGuardia Airport,15
+East Village,Seaport,15
+West Village,Garment District,15
+Union Sq,Battery Park City,15
+LaGuardia Airport,Upper West Side North,15
+Financial District South,Washington Heights South,15
+Manhattan Valley,Murray Hill,15
+Newark Airport,Midtown Center,15
+Seaport,Two Bridges/Seward Park,15
+Clinton West,Upper West Side South,15
+Times Sq/Theatre District,Midtown South,15
+Seaport,Flatiron,15
+Greenwich Village South,Bushwick South,15
+SoHo,Union Sq,15
+Midtown Center,East Harlem North,15
+Lincoln Square East,Lenox Hill West,15
+Lincoln Square West,West Chelsea/Hudson Yards,15
+Midtown South,Murray Hill,15
+Manhattan Valley,Brooklyn Heights,15
+Murray Hill,Washington Heights North,15
+Lincoln Square West,JFK Airport,15
+Upper West Side North,Financial District South,15
+Union Sq,JFK Airport,15
+East Village,Yorkville East,15
+Central Park,Garment District,15
+Bushwick South,West Chelsea/Hudson Yards,15
+Brooklyn Heights,Hudson Sq,15
+Upper East Side North,Clinton East,15
+Yorkville East,Central Harlem,15
+Lincoln Square West,Upper West Side North,15
+Astoria,Yorkville East,15
+Two Bridges/Seward Park,World Trade Center,15
+Penn Station/Madison Sq West,West Chelsea/Hudson Yards,15
+Newark Airport,Bloomingdale,15
+Union Sq,UN/Turtle Bay South,15
+Greenwich Village North,Central Park,15
+Murray Hill,Midtown South,15
+Upper East Side South,Greenwich Village North,15
+Hudson Sq,Meatpacking/West Village West,15
+Midtown Center,Greenwich Village South,15
+East Village,Penn Station/Madison Sq West,15
+Battery Park City,Upper East Side South,15
+Battery Park City,LaGuardia Airport,15
+East Village,Midtown Center,15
+Garment District,Sutton Place/Turtle Bay North,15
+Penn Station/Madison Sq West,Upper East Side North,15
+Greenwich Village South,Gramercy,15
+Lincoln Square West,SoHo,15
+Manhattan Valley,Two Bridges/Seward Park,15
+Upper East Side South,Upper West Side South,15
+World Trade Center,Seaport,15
+Central Harlem,Central Park,15
+East Village,West Chelsea/Hudson Yards,15
+Lower East Side,Yorkville East,15
+Yorkville East,Penn Station/Madison Sq West,15
+Washington Heights South,Midtown Center,15
+Murray Hill,Sutton Place/Turtle Bay North,15
+Central Park,Sutton Place/Turtle Bay North,15
+Lincoln Square West,Newark Airport,15
+East Harlem North,Flatiron,15
+Flatiron,Yorkville East,15
+Battery Park City,Lenox Hill East,15
+LaGuardia Airport,Greenwich Village South,15
+Bedford,Garment District,15
+UN/Turtle Bay South,Washington Heights North,15
+UN/Turtle Bay South,Garment District,15
+Sutton Place/Turtle Bay North,World Trade Center,15
+Financial District South,East Village,15
+Bushwick South,Upper East Side South,15
+Midtown North,Sutton Place/Turtle Bay North,15
+Hudson Sq,Central Park,15
+Gramercy,Union Sq,15
+Manhattan Valley,UN/Turtle Bay South,15
+Lower East Side,Financial District North,15
+UN/Turtle Bay South,Financial District South,15
+World Trade Center,Yorkville West,15
+Garment District,Murray Hill,15
+Hudson Sq,Financial District North,15
+Washington Heights North,JFK Airport,15
+West Chelsea/Hudson Yards,Lower East Side,15
+Gramercy,LaGuardia Airport,15
+Upper East Side South,Lenox Hill East,15
+Manhattan Valley,Seaport,15
+Greenwich Village North,Flatiron,15
+Midtown Center,TriBeCa/Civic Center,15
+JFK Airport,Midtown East,15
+West Village,World Trade Center,15
+World Trade Center,Garment District,15
+Washington Heights South,Sutton Place/Turtle Bay North,15
+Newark Airport,Financial District North,15
+Seaport,Financial District North,15
+Newark Airport,Lenox Hill East,15
+Brooklyn Heights,Midtown South,15
+Washington Heights North,LaGuardia Airport,15
+Penn Station/Madison Sq West,Upper East Side South,15
+Meatpacking/West Village West,Upper West Side South,15
+Bedford,UN/Turtle Bay South,15
+Seaport,Bedford,15
+UN/Turtle Bay South,Union Sq,15
+Midtown South,Washington Heights North,15
+West Chelsea/Hudson Yards,Newark Airport,15
+East Chelsea,East Chelsea,15
+Astoria,Two Bridges/Seward Park,15
+Lincoln Square East,SoHo,15
+East Chelsea,Upper West Side North,15
+LaGuardia Airport,Brooklyn Heights,15
+Lincoln Square East,Newark Airport,15
+JFK Airport,Lenox Hill West,15
+Sutton Place/Turtle Bay North,Seaport,15
+TriBeCa/Civic Center,Bloomingdale,15
+Newark Airport,LaGuardia Airport,15
+Flatiron,Sutton Place/Turtle Bay North,15
+Brooklyn Heights,Financial District North,15
+West Village,Upper East Side South,15
+Garment District,Times Sq/Theatre District,15
+LaGuardia Airport,Lincoln Square West,15
+LaGuardia Airport,East Harlem North,15
+Brooklyn Heights,East Chelsea,15
+Midtown Center,Alphabet City,15
+East Chelsea,East Harlem North,15
+Central Harlem,Garment District,15
+Newark Airport,Clinton East,15
+Financial District South,Manhattan Valley,15
+Clinton West,Manhattan Valley,15
+Bushwick South,Two Bridges/Seward Park,15
+Brooklyn Heights,Two Bridges/Seward Park,15
+Upper West Side North,Murray Hill,15
+Murray Hill,Lenox Hill West,15
+West Village,Washington Heights South,15
+Financial District North,LaGuardia Airport,15
+Midtown East,Seaport,15
+Upper West Side North,Greenwich Village South,15
+Stuy Town/Peter Cooper Village,Times Sq/Theatre District,15
+Sutton Place/Turtle Bay North,Lenox Hill West,15
+Manhattan Valley,TriBeCa/Civic Center,15
+Lincoln Square East,Hudson Sq,15
+Flatiron,Midtown East,15
+Battery Park,Yorkville West,15
+Astoria,LaGuardia Airport,15
+Penn Station/Madison Sq West,Central Harlem,15
+Union Sq,East Harlem North,15
+Midtown Center,Two Bridges/Seward Park,15
+Midtown Center,Brooklyn Heights,15
+Stuy Town/Peter Cooper Village,Yorkville East,15
+Central Park,Two Bridges/Seward Park,15
+West Village,Midtown East,15
+JFK Airport,East Harlem North,15
+Lincoln Square East,Yorkville East,15
+Garment District,East Village,15
+Newark Airport,Stuy Town/Peter Cooper Village,15
+Garment District,Brooklyn Heights,15
+Yorkville East,Central Park,15
+Garment District,Washington Heights South,15
+Stuy Town/Peter Cooper Village,UN/Turtle Bay South,15
+Financial District South,Lenox Hill East,15
+Battery Park,Hudson Sq,15
+Bushwick South,Washington Heights North,15
+Financial District South,TriBeCa/Civic Center,15
+Washington Heights South,TriBeCa/Civic Center,15
+Flatiron,Midtown Center,15
+Financial District North,Stuy Town/Peter Cooper Village,15
+East Village,Financial District North,15
+Newark Airport,Battery Park City,15
+Stuy Town/Peter Cooper Village,Lincoln Square East,15
+Bedford,East Harlem North,15
+Midtown South,Newark Airport,15
+Bedford,Central Park,15
+West Village,Murray Hill,15
+Battery Park City,Hudson Sq,15
+Midtown North,World Trade Center,15
+Upper West Side North,Yorkville East,15
+Lincoln Square East,Manhattan Valley,15
+World Trade Center,Greenwich Village North,15
+Two Bridges/Seward Park,East Harlem North,15
+East Chelsea,Bedford,15
+Lincoln Square West,Midtown East,15
+Astoria,East Chelsea,15
+Alphabet City,World Trade Center,15
+Bushwick South,East Village,15
+Central Harlem,Two Bridges/Seward Park,15
+UN/Turtle Bay South,Flatiron,15
+East Chelsea,Upper East Side South,15
+West Chelsea/Hudson Yards,Bushwick South,15
+Penn Station/Madison Sq West,Yorkville East,15
+Bushwick South,Flatiron,15
+Washington Heights South,Yorkville East,15
+Upper West Side North,Yorkville West,15
+Newark Airport,Alphabet City,15
+Lower East Side,Central Park,15
+Lower East Side,Clinton West,15
+Two Bridges/Seward Park,Central Park,15
+Times Sq/Theatre District,Two Bridges/Seward Park,15
+Meatpacking/West Village West,Bloomingdale,15
+Meatpacking/West Village West,Battery Park City,15
+Washington Heights North,Greenwich Village North,15
+Alphabet City,Midtown Center,15
+Bloomingdale,Flatiron,15
+Central Park,Meatpacking/West Village West,15
+Flatiron,Upper West Side North,15
+Penn Station/Madison Sq West,Hudson Sq,15
+Astoria,SoHo,15
+Sutton Place/Turtle Bay North,LaGuardia Airport,15
+Greenwich Village North,East Chelsea,15
+Murray Hill,Clinton East,15
+Financial District South,Battery Park City,15
+East Harlem North,Garment District,15
+Clinton West,Greenwich Village North,15
+Lincoln Square West,Stuy Town/Peter Cooper Village,15
+LaGuardia Airport,Murray Hill,15
+UN/Turtle Bay South,East Harlem North,15
+Lower East Side,Upper East Side South,15
+Alphabet City,LaGuardia Airport,15
+Lenox Hill West,SoHo,15
+Washington Heights South,Battery Park City,15
+Upper West Side North,Upper East Side North,15
+Sutton Place/Turtle Bay North,Upper East Side South,15
+Lenox Hill East,Lenox Hill West,15
+Alphabet City,Murray Hill,15
+Stuy Town/Peter Cooper Village,TriBeCa/Civic Center,15
+UN/Turtle Bay South,Manhattan Valley,15
+Garment District,Greenwich Village North,15
+Lower East Side,Washington Heights South,15
+East Harlem North,Newark Airport,15
+Union Sq,Alphabet City,15
+Gramercy,Hudson Sq,15
+East Village,Murray Hill,15
+UN/Turtle Bay South,JFK Airport,15
+Yorkville East,Lincoln Square East,15
+Meatpacking/West Village West,Newark Airport,15
+Bloomingdale,UN/Turtle Bay South,15
+Brooklyn Heights,Greenwich Village South,15
+Seaport,Hudson Sq,15
+Lenox Hill East,Greenwich Village North,15
+Yorkville East,Battery Park City,15
+Greenwich Village South,Midtown South,15
+Brooklyn Heights,Lenox Hill East,15
+West Village,Greenwich Village South,15
+Sutton Place/Turtle Bay North,Midtown North,15
+Hudson Sq,UN/Turtle Bay South,15
+Astoria,Battery Park,15
+Upper East Side South,Central Harlem,15
+Bedford,Two Bridges/Seward Park,15
+Battery Park City,Flatiron,15
+Times Sq/Theatre District,UN/Turtle Bay South,15
+Upper West Side North,Hudson Sq,14
+Midtown East,Meatpacking/West Village West,14
+Yorkville East,Seaport,14
+Penn Station/Madison Sq West,West Village,14
+West Chelsea/Hudson Yards,Yorkville East,14
+Midtown East,Bloomingdale,14
+East Village,Newark Airport,14
+Bedford,East Village,14
+West Village,Battery Park City,14
+Astoria,Garment District,14
+West Chelsea/Hudson Yards,JFK Airport,14
+Murray Hill,Financial District South,14
+Bloomingdale,Central Harlem,14
+Central Harlem,Financial District North,14
+Midtown North,Upper West Side South,14
+Lincoln Square West,Flatiron,14
+Union Sq,Murray Hill,14
+Clinton West,Brooklyn Heights,14
+Lincoln Square East,Alphabet City,14
+Upper East Side North,Financial District South,14
+Clinton East,World Trade Center,14
+TriBeCa/Civic Center,Murray Hill,14
+Times Sq/Theatre District,Washington Heights North,14
+Stuy Town/Peter Cooper Village,Battery Park City,14
+Greenwich Village South,Midtown North,14
+Penn Station/Madison Sq West,Midtown Center,14
+Upper West Side North,UN/Turtle Bay South,14
+Washington Heights North,Midtown North,14
+Flatiron,Financial District South,14
+World Trade Center,Manhattan Valley,14
+Lower East Side,East Harlem North,14
+Murray Hill,Hudson Sq,14
+Midtown South,Seaport,14
+Gramercy,Lenox Hill West,14
+Lincoln Square East,West Village,14
+Battery Park,UN/Turtle Bay South,14
+World Trade Center,Sutton Place/Turtle Bay North,14
+Washington Heights South,Financial District South,14
+World Trade Center,Upper West Side North,14
+TriBeCa/Civic Center,Lincoln Square West,14
+Upper East Side North,Times Sq/Theatre District,14
+Newark Airport,Lower East Side,14
+Astoria,UN/Turtle Bay South,14
+Lenox Hill East,Hudson Sq,14
+Bloomingdale,West Village,14
+SoHo,Manhattan Valley,14
+Battery Park City,Upper East Side North,14
+Clinton East,East Village,14
+East Chelsea,LaGuardia Airport,14
+Bushwick South,Upper West Side North,14
+Astoria,Bushwick South,14
+Central Harlem,Gramercy,14
+Stuy Town/Peter Cooper Village,Flatiron,14
+Garment District,Flatiron,14
+Union Sq,Flatiron,14
+Clinton East,Sutton Place/Turtle Bay North,14
+Garment District,West Chelsea/Hudson Yards,14
+Newark Airport,Two Bridges/Seward Park,14
+Midtown East,East Harlem North,14
+Financial District North,Midtown Center,14
+Bushwick South,Brooklyn Heights,14
+West Chelsea/Hudson Yards,Greenwich Village North,14
+East Village,Alphabet City,14
+Murray Hill,West Village,14
+Lower East Side,Battery Park,14
+UN/Turtle Bay South,East Village,14
+TriBeCa/Civic Center,SoHo,14
+Meatpacking/West Village West,Upper East Side South,14
+Manhattan Valley,LaGuardia Airport,14
+Yorkville West,Financial District North,14
+Bloomingdale,Midtown Center,14
+Lincoln Square East,Two Bridges/Seward Park,14
+Two Bridges/Seward Park,Midtown North,14
+Murray Hill,Midtown North,14
+LaGuardia Airport,Financial District South,14
+World Trade Center,Flatiron,14
+Astoria,Hudson Sq,14
+Bloomingdale,Midtown South,14
+Yorkville East,Midtown North,14
+Alphabet City,TriBeCa/Civic Center,14
+East Chelsea,Yorkville East,14
+Brooklyn Heights,Flatiron,14
+Greenwich Village North,West Chelsea/Hudson Yards,14
+Greenwich Village North,Gramercy,14
+SoHo,Washington Heights North,14
+Midtown North,Garment District,14
+Yorkville East,Astoria,14
+Seaport,Yorkville West,14
+Lenox Hill West,Midtown South,14
+UN/Turtle Bay South,Lenox Hill West,14
+Times Sq/Theatre District,SoHo,14
+Midtown South,West Village,14
+UN/Turtle Bay South,Times Sq/Theatre District,14
+Central Harlem,Yorkville West,14
+Union Sq,Newark Airport,14
+Sutton Place/Turtle Bay North,Garment District,14
+Midtown East,Alphabet City,14
+SoHo,Meatpacking/West Village West,14
+UN/Turtle Bay South,Bushwick South,14
+Battery Park City,Two Bridges/Seward Park,14
+Financial District South,Alphabet City,14
+Yorkville East,Hudson Sq,14
+Alphabet City,Stuy Town/Peter Cooper Village,14
+Meatpacking/West Village West,Garment District,14
+West Village,Upper West Side South,14
+Hudson Sq,Washington Heights South,14
+Alphabet City,SoHo,14
+Penn Station/Madison Sq West,World Trade Center,14
+East Chelsea,Lenox Hill West,14
+Hudson Sq,LaGuardia Airport,14
+Greenwich Village North,Alphabet City,14
+World Trade Center,JFK Airport,14
+Central Harlem,Lincoln Square West,14
+Alphabet City,East Harlem North,14
+Upper West Side South,Astoria,14
+East Harlem North,Sutton Place/Turtle Bay North,14
+Upper West Side South,Bushwick South,14
+Central Harlem,Midtown North,14
+Flatiron,Battery Park,14
+Yorkville East,East Chelsea,14
+Lenox Hill West,West Chelsea/Hudson Yards,14
+East Chelsea,Penn Station/Madison Sq West,14
+LaGuardia Airport,Bedford,14
+Sutton Place/Turtle Bay North,East Chelsea,14
+Gramercy,Greenwich Village South,14
+TriBeCa/Civic Center,Upper West Side North,14
+Greenwich Village North,UN/Turtle Bay South,14
+Lenox Hill East,Manhattan Valley,14
+Lower East Side,Central Harlem,14
+Brooklyn Heights,Bushwick South,14
+Lenox Hill East,Yorkville West,14
+Yorkville East,Clinton West,14
+Central Park,Central Park,14
+Central Harlem,Clinton East,14
+Penn Station/Madison Sq West,Washington Heights North,14
+Lenox Hill East,Stuy Town/Peter Cooper Village,14
+Lincoln Square East,Midtown Center,14
+Hudson Sq,Seaport,14
+Alphabet City,Lower East Side,14
+Upper East Side North,JFK Airport,14
+Upper West Side South,Midtown South,14
+World Trade Center,West Chelsea/Hudson Yards,14
+Lenox Hill West,Newark Airport,14
+JFK Airport,Two Bridges/Seward Park,14
+Alphabet City,Washington Heights North,14
+East Harlem North,Alphabet City,14
+Hudson Sq,Stuy Town/Peter Cooper Village,14
+Clinton West,East Chelsea,14
+Midtown Center,UN/Turtle Bay South,14
+Washington Heights North,Union Sq,14
+Upper West Side South,Battery Park City,14
+Upper East Side South,Lenox Hill West,14
+Central Park,Midtown South,14
+Gramercy,Penn Station/Madison Sq West,14
+Midtown South,Yorkville East,14
+Meatpacking/West Village West,Lenox Hill West,14
+Central Harlem,Financial District South,14
+Midtown Center,East Chelsea,14
+Lenox Hill West,West Village,14
+Upper East Side North,Central Harlem,14
+Midtown Center,Battery Park,14
+Yorkville West,Midtown East,14
+Union Sq,Stuy Town/Peter Cooper Village,14
+Clinton West,Meatpacking/West Village West,14
+Two Bridges/Seward Park,Clinton East,14
+Meatpacking/West Village West,Battery Park,14
+East Harlem North,Battery Park,14
+Battery Park,Garment District,14
+Hudson Sq,TriBeCa/Civic Center,14
+Clinton East,Brooklyn Heights,14
+East Harlem North,Murray Hill,14
+Times Sq/Theatre District,Manhattan Valley,14
+Alphabet City,Greenwich Village South,14
+Midtown North,Lenox Hill West,14
+Upper West Side North,Lower East Side,14
+Midtown North,Times Sq/Theatre District,14
+Battery Park City,Seaport,14
+Two Bridges/Seward Park,East Village,14
+Hudson Sq,West Chelsea/Hudson Yards,14
+Washington Heights South,Upper East Side North,14
+Midtown East,Midtown South,14
+Seaport,East Chelsea,14
+Upper East Side North,Union Sq,14
+TriBeCa/Civic Center,UN/Turtle Bay South,14
+Times Sq/Theatre District,LaGuardia Airport,14
+World Trade Center,Financial District North,14
+SoHo,SoHo,14
+Sutton Place/Turtle Bay North,Midtown South,14
+Lenox Hill West,Stuy Town/Peter Cooper Village,14
+Two Bridges/Seward Park,Times Sq/Theatre District,14
+Central Park,Battery Park,14
+Newark Airport,Meatpacking/West Village West,14
+Midtown Center,Central Harlem,14
+Manhattan Valley,Lenox Hill West,14
+Lenox Hill East,Two Bridges/Seward Park,14
+Newark Airport,Yorkville West,14
+Central Park,Seaport,14
+Bloomingdale,Penn Station/Madison Sq West,14
+Meatpacking/West Village West,Brooklyn Heights,14
+Garment District,Yorkville East,14
+Clinton West,Midtown South,14
+East Harlem North,Meatpacking/West Village West,14
+Lincoln Square East,Clinton East,14
+LaGuardia Airport,Upper West Side South,14
+Flatiron,Clinton West,14
+Bedford,Upper East Side North,14
+Washington Heights South,Union Sq,14
+Lincoln Square East,Times Sq/Theatre District,14
+Battery Park,World Trade Center,14
+East Village,Lenox Hill West,14
+Hudson Sq,Central Harlem,14
+World Trade Center,Battery Park City,14
+Financial District North,Midtown South,14
+Two Bridges/Seward Park,Clinton West,14
+Bushwick South,Yorkville East,14
+East Chelsea,Greenwich Village South,14
+Alphabet City,Bloomingdale,14
+Clinton West,TriBeCa/Civic Center,14
+Upper East Side South,Lincoln Square West,14
+Two Bridges/Seward Park,Yorkville East,14
+Bedford,Bloomingdale,14
+Manhattan Valley,World Trade Center,14
+Meatpacking/West Village West,Sutton Place/Turtle Bay North,14
+Midtown North,East Village,14
+Financial District South,Bushwick South,14
+Yorkville West,Stuy Town/Peter Cooper Village,14
+Greenwich Village North,Upper West Side South,14
+Upper West Side North,Sutton Place/Turtle Bay North,14
+SoHo,Central Harlem,14
+Times Sq/Theatre District,Yorkville West,14
+Battery Park City,Murray Hill,14
+Upper West Side North,Central Park,14
+Lenox Hill East,Washington Heights South,14
+West Chelsea/Hudson Yards,Brooklyn Heights,14
+West Chelsea/Hudson Yards,Upper East Side North,14
+Times Sq/Theatre District,Lincoln Square West,14
+World Trade Center,Greenwich Village South,14
+Central Harlem,Murray Hill,14
+Battery Park City,Times Sq/Theatre District,14
+Greenwich Village North,Murray Hill,14
+Sutton Place/Turtle Bay North,Yorkville West,14
+Newark Airport,Murray Hill,14
+Midtown North,Alphabet City,14
+Sutton Place/Turtle Bay North,UN/Turtle Bay South,14
+East Village,Upper East Side North,14
+Times Sq/Theatre District,Clinton East,14
+Midtown North,Midtown East,14
+East Harlem North,Two Bridges/Seward Park,14
+Washington Heights South,Murray Hill,14
+Financial District North,Upper East Side South,14
+Meatpacking/West Village West,Yorkville West,14
+Financial District South,World Trade Center,14
+Clinton West,East Village,14
+Times Sq/Theatre District,Greenwich Village South,14
+SoHo,Central Park,14
+Yorkville West,Upper West Side South,14
+Upper West Side South,Lincoln Square East,14
+Seaport,Greenwich Village South,14
+East Village,Midtown South,14
+Clinton East,Bloomingdale,14
+Alphabet City,Times Sq/Theatre District,14
+Stuy Town/Peter Cooper Village,Financial District South,14
+Union Sq,Clinton West,14
+Bushwick South,World Trade Center,14
+Midtown East,Central Harlem,14
+Gramercy,Bloomingdale,14
+Clinton East,East Chelsea,14
+Times Sq/Theatre District,East Chelsea,14
+Alphabet City,Greenwich Village North,14
+East Chelsea,Midtown East,14
+Bloomingdale,Washington Heights North,14
+Midtown South,Central Harlem,14
+Hudson Sq,Lenox Hill East,14
+Penn Station/Madison Sq West,JFK Airport,14
+Midtown South,Upper West Side South,14
+Central Park,Bedford,14
+Bushwick South,SoHo,14
+Brooklyn Heights,West Chelsea/Hudson Yards,14
+SoHo,Battery Park City,14
+West Chelsea/Hudson Yards,Penn Station/Madison Sq West,14
+Brooklyn Heights,Lower East Side,14
+Garment District,Battery Park City,14
+Hudson Sq,Clinton East,14
+Seaport,SoHo,14
+Stuy Town/Peter Cooper Village,Meatpacking/West Village West,14
+Lower East Side,Upper West Side North,14
+Upper West Side North,Bedford,14
+Midtown North,Midtown North,14
+Midtown North,East Harlem North,14
+Astoria,Lenox Hill West,14
+Midtown East,Bushwick South,14
+Bushwick South,Manhattan Valley,14
+Stuy Town/Peter Cooper Village,Upper West Side North,14
+Gramercy,Murray Hill,14
+Lenox Hill West,World Trade Center,14
+Midtown South,East Chelsea,14
+Flatiron,Lenox Hill West,14
+Battery Park City,SoHo,14
+Lincoln Square West,UN/Turtle Bay South,14
+Midtown Center,JFK Airport,14
+Flatiron,LaGuardia Airport,14
+Yorkville East,Bushwick South,14
+Union Sq,Times Sq/Theatre District,14
+Washington Heights South,Lenox Hill West,14
+Yorkville East,Meatpacking/West Village West,14
+Yorkville East,Garment District,14
+Hudson Sq,Yorkville East,14
+Battery Park City,Yorkville East,14
+TriBeCa/Civic Center,Washington Heights North,14
+Lincoln Square East,Clinton West,14
+Bedford,Yorkville West,14
+Gramercy,Garment District,14
+Yorkville East,West Chelsea/Hudson Yards,14
+Midtown East,Bedford,14
+Midtown North,Midtown South,14
+Battery Park,Upper West Side North,14
+Two Bridges/Seward Park,Washington Heights North,14
+World Trade Center,East Chelsea,14
+Lincoln Square East,Midtown South,14
+Seaport,Washington Heights South,14
+Hudson Sq,Gramercy,14
+UN/Turtle Bay South,Two Bridges/Seward Park,14
+Two Bridges/Seward Park,Upper East Side South,14
+Clinton West,World Trade Center,14
+Lenox Hill West,Central Harlem,14
+Gramercy,Midtown Center,14
+Washington Heights South,Washington Heights North,14
+JFK Airport,Times Sq/Theatre District,14
+Battery Park,Penn Station/Madison Sq West,14
+Clinton West,Murray Hill,14
+Lenox Hill West,Battery Park City,14
+Lenox Hill West,Astoria,14
+Astoria,Sutton Place/Turtle Bay North,14
+Central Harlem,Times Sq/Theatre District,14
+Manhattan Valley,Bloomingdale,14
+Times Sq/Theatre District,Bedford,14
+Seaport,LaGuardia Airport,14
+Hudson Sq,East Village,14
+East Village,Hudson Sq,14
+Greenwich Village North,Clinton East,14
+UN/Turtle Bay South,Upper West Side North,14
+Lenox Hill East,Upper East Side North,14
+Stuy Town/Peter Cooper Village,Midtown East,14
+TriBeCa/Civic Center,Greenwich Village North,14
+Upper East Side South,Midtown South,14
+Astoria,Bloomingdale,14
+Financial District North,World Trade Center,14
+Garment District,Midtown East,14
+Battery Park City,TriBeCa/Civic Center,14
+Upper East Side North,Midtown South,14
+Bushwick South,UN/Turtle Bay South,14
+Battery Park City,East Chelsea,14
+Yorkville East,Newark Airport,14
+Seaport,Garment District,14
+SoHo,Lincoln Square East,14
+Upper East Side North,LaGuardia Airport,14
+Two Bridges/Seward Park,Garment District,14
+Clinton East,Financial District South,14
+West Village,UN/Turtle Bay South,14
+Washington Heights North,TriBeCa/Civic Center,14
+JFK Airport,Newark Airport,14
+Lincoln Square East,East Harlem North,14
+Greenwich Village South,TriBeCa/Civic Center,14
+East Chelsea,Lower East Side,14
+Upper West Side North,Newark Airport,14
+East Chelsea,Alphabet City,14
+Meatpacking/West Village West,Washington Heights North,14
+Lower East Side,West Village,14
+Yorkville East,Sutton Place/Turtle Bay North,14
+Meatpacking/West Village West,Lincoln Square East,14
+Midtown South,Battery Park,14
+Upper West Side North,Central Harlem,14
+JFK Airport,Washington Heights North,14
+Midtown North,Lenox Hill East,14
+Gramercy,Lower East Side,14
+World Trade Center,Clinton East,14
+Meatpacking/West Village West,Stuy Town/Peter Cooper Village,14
+Penn Station/Madison Sq West,East Chelsea,14
+Lower East Side,Murray Hill,14
+Central Park,Central Harlem,14
+Midtown South,Washington Heights South,14
+Battery Park City,East Village,13
+Sutton Place/Turtle Bay North,Clinton West,13
+Yorkville West,Lincoln Square West,13
+East Harlem North,East Village,13
+West Village,West Chelsea/Hudson Yards,13
+UN/Turtle Bay South,Hudson Sq,13
+Lower East Side,Midtown South,13
+Greenwich Village North,Midtown South,13
+Midtown North,Financial District North,13
+Flatiron,Clinton East,13
+Flatiron,Brooklyn Heights,13
+East Chelsea,Times Sq/Theatre District,13
+UN/Turtle Bay South,Yorkville East,13
+LaGuardia Airport,Washington Heights South,13
+Washington Heights South,Lincoln Square East,13
+Financial District South,Brooklyn Heights,13
+SoHo,World Trade Center,13
+Upper West Side North,Brooklyn Heights,13
+Murray Hill,East Chelsea,13
+East Harlem North,Lower East Side,13
+Greenwich Village South,Washington Heights South,13
+West Chelsea/Hudson Yards,Battery Park City,13
+Lower East Side,Brooklyn Heights,13
+West Chelsea/Hudson Yards,West Chelsea/Hudson Yards,13
+Midtown South,Clinton West,13
+Lenox Hill West,Midtown Center,13
+Union Sq,Penn Station/Madison Sq West,13
+Financial District North,Newark Airport,13
+World Trade Center,Two Bridges/Seward Park,13
+Lower East Side,Battery Park City,13
+East Village,Astoria,13
+East Village,Central Park,13
+Penn Station/Madison Sq West,Seaport,13
+Central Park,World Trade Center,13
+Greenwich Village South,West Village,13
+Lincoln Square West,Garment District,13
+Gramercy,East Harlem North,13
+Lenox Hill West,Bloomingdale,13
+West Village,Penn Station/Madison Sq West,13
+Midtown South,Lincoln Square East,13
+West Village,Bloomingdale,13
+Times Sq/Theatre District,Penn Station/Madison Sq West,13
+Murray Hill,Bloomingdale,13
+Two Bridges/Seward Park,Lower East Side,13
+Midtown East,Brooklyn Heights,13
+Lower East Side,Greenwich Village North,13
+JFK Airport,Murray Hill,13
+Alphabet City,Garment District,13
+Lenox Hill West,Yorkville West,13
+Upper East Side North,Midtown Center,13
+Union Sq,West Chelsea/Hudson Yards,13
+East Chelsea,UN/Turtle Bay South,13
+World Trade Center,Newark Airport,13
+Newark Airport,Central Park,13
+West Chelsea/Hudson Yards,Upper East Side South,13
+Yorkville West,Manhattan Valley,13
+Clinton West,Washington Heights North,13
+Financial District South,Central Harlem,13
+Sutton Place/Turtle Bay North,East Harlem North,13
+West Village,Central Harlem,13
+Upper West Side South,Washington Heights South,13
+Central Park,West Chelsea/Hudson Yards,13
+Yorkville East,East Harlem North,13
+Lenox Hill West,Flatiron,13
+East Chelsea,Sutton Place/Turtle Bay North,13
+Upper East Side South,Gramercy,13
+East Chelsea,Greenwich Village North,13
+Times Sq/Theatre District,Central Park,13
+Clinton East,Two Bridges/Seward Park,13
+Lincoln Square East,Battery Park City,13
+Gramercy,Battery Park City,13
+Upper West Side North,Lenox Hill West,13
+Bushwick South,Lenox Hill West,13
+Flatiron,Flatiron,13
+JFK Airport,Bedford,13
+Clinton East,Meatpacking/West Village West,13
+Manhattan Valley,Clinton East,13
+Bedford,Times Sq/Theatre District,13
+Upper West Side North,Meatpacking/West Village West,13
+Brooklyn Heights,East Harlem North,13
+Bedford,Brooklyn Heights,13
+Battery Park City,Lower East Side,13
+Union Sq,TriBeCa/Civic Center,13
+West Chelsea/Hudson Yards,Hudson Sq,13
+Midtown North,Hudson Sq,13
+Manhattan Valley,Newark Airport,13
+Greenwich Village North,Yorkville East,13
+Bloomingdale,Battery Park,13
+Midtown East,LaGuardia Airport,13
+Gramercy,Times Sq/Theatre District,13
+Upper East Side North,West Village,13
+Hudson Sq,World Trade Center,13
+Upper West Side North,Astoria,13
+Sutton Place/Turtle Bay North,JFK Airport,13
+Upper West Side North,Stuy Town/Peter Cooper Village,13
+Upper West Side North,East Village,13
+Seaport,Midtown North,13
+Union Sq,Bloomingdale,13
+East Village,Battery Park City,13
+Seaport,UN/Turtle Bay South,13
+Washington Heights South,Bushwick South,13
+Clinton West,Midtown East,13
+Upper East Side South,Upper East Side North,13
+Newark Airport,East Village,13
+Sutton Place/Turtle Bay North,Yorkville East,13
+Battery Park,SoHo,13
+Bushwick South,Lincoln Square East,13
+Lincoln Square West,Bloomingdale,13
+Gramercy,World Trade Center,13
+Central Park,Financial District South,13
+Lower East Side,Lenox Hill West,13
+Midtown East,Central Park,13
+Central Park,Greenwich Village South,13
+Midtown South,Midtown South,13
+Midtown North,Bloomingdale,13
+TriBeCa/Civic Center,East Harlem North,13
+Murray Hill,Clinton West,13
+Midtown South,Meatpacking/West Village West,13
+Battery Park,Two Bridges/Seward Park,13
+Brooklyn Heights,Clinton West,13
+Midtown South,Greenwich Village North,13
+Washington Heights North,World Trade Center,13
+West Chelsea/Hudson Yards,East Harlem North,13
+East Chelsea,Financial District South,13
+Stuy Town/Peter Cooper Village,Greenwich Village South,13
+Upper East Side South,Battery Park,13
+Washington Heights North,Seaport,13
+Bedford,Washington Heights North,13
+Midtown South,Midtown North,13
+Lincoln Square West,Midtown South,13
+Newark Airport,Union Sq,13
+Lenox Hill West,East Village,13
+Battery Park,East Village,13
+Greenwich Village North,Battery Park City,13
+Upper West Side South,Upper West Side North,13
+Hudson Sq,Bloomingdale,13
+East Harlem North,Times Sq/Theatre District,13
+Greenwich Village South,East Village,13
+West Village,LaGuardia Airport,13
+Bloomingdale,Times Sq/Theatre District,13
+East Harlem North,Battery Park City,13
+Clinton East,East Harlem North,13
+Midtown North,Penn Station/Madison Sq West,13
+LaGuardia Airport,Upper East Side South,13
+Alphabet City,Manhattan Valley,13
+Two Bridges/Seward Park,Union Sq,13
+Battery Park City,Bloomingdale,13
+Yorkville West,Upper East Side South,13
+UN/Turtle Bay South,Lower East Side,13
+Midtown Center,Penn Station/Madison Sq West,13
+Financial District South,Times Sq/Theatre District,13
+Financial District South,Newark Airport,13
+Flatiron,Seaport,13
+JFK Airport,Bloomingdale,13
+Upper West Side South,Midtown North,13
+Flatiron,Lincoln Square West,13
+Upper East Side North,Astoria,13
+Battery Park City,Battery Park City,13
+West Chelsea/Hudson Yards,World Trade Center,13
+Hudson Sq,East Chelsea,13
+West Village,SoHo,13
+SoHo,Lower East Side,13
+Lenox Hill West,Lincoln Square East,13
+Lincoln Square East,Yorkville West,13
+Bedford,Greenwich Village North,13
+Midtown South,Garment District,13
+East Chelsea,Meatpacking/West Village West,13
+Astoria,Upper East Side North,13
+Upper West Side South,Financial District North,13
+Upper East Side North,Upper East Side North,13
+Hudson Sq,Murray Hill,13
+Hudson Sq,Financial District South,13
+Sutton Place/Turtle Bay North,Penn Station/Madison Sq West,13
+East Chelsea,Bushwick South,13
+Lower East Side,Bedford,13
+Battery Park,Bushwick South,13
+Midtown Center,Yorkville West,13
+Financial District South,Financial District North,13
+Midtown East,Lincoln Square West,13
+West Village,Greenwich Village North,13
+Times Sq/Theatre District,Sutton Place/Turtle Bay North,13
+Battery Park City,Greenwich Village South,13
+Midtown East,Financial District South,13
+Flatiron,West Chelsea/Hudson Yards,13
+Battery Park City,World Trade Center,13
+Midtown East,Washington Heights North,13
+Yorkville West,Upper West Side North,13
+Financial District North,Upper West Side South,13
+Greenwich Village South,Yorkville East,13
+Two Bridges/Seward Park,Sutton Place/Turtle Bay North,13
+West Village,West Village,13
+Two Bridges/Seward Park,SoHo,13
+West Chelsea/Hudson Yards,West Village,13
+Stuy Town/Peter Cooper Village,Gramercy,13
+Times Sq/Theatre District,Midtown East,13
+Greenwich Village South,Meatpacking/West Village West,13
+Bloomingdale,Sutton Place/Turtle Bay North,13
+Stuy Town/Peter Cooper Village,Financial District North,13
+Upper West Side North,Greenwich Village North,13
+Lenox Hill East,Financial District North,13
+East Village,Brooklyn Heights,13
+Clinton East,Greenwich Village South,13
+Lower East Side,Astoria,13
+Upper West Side North,Two Bridges/Seward Park,13
+Yorkville West,West Chelsea/Hudson Yards,13
+Sutton Place/Turtle Bay North,Manhattan Valley,13
+Clinton West,LaGuardia Airport,13
+Bloomingdale,Lincoln Square West,13
+Bedford,Murray Hill,13
+Midtown South,Battery Park City,13
+Washington Heights North,Lincoln Square West,13
+SoHo,Midtown South,13
+Meatpacking/West Village West,Clinton East,13
+Financial District South,Hudson Sq,13
+SoHo,Gramercy,13
+Murray Hill,Bushwick South,13
+Meatpacking/West Village West,TriBeCa/Civic Center,13
+Washington Heights South,Greenwich Village North,13
+Penn Station/Madison Sq West,Midtown South,13
+Garment District,Garment District,13
+Lenox Hill West,Two Bridges/Seward Park,13
+Washington Heights South,World Trade Center,13
+Battery Park,Battery Park,13
+LaGuardia Airport,JFK Airport,13
+Upper East Side North,Midtown East,13
+Yorkville East,Upper West Side North,13
+East Harlem North,JFK Airport,13
+Upper East Side North,Hudson Sq,13
+Upper West Side North,Clinton East,13
+West Village,Bushwick South,13
+Lower East Side,Garment District,13
+Hudson Sq,Midtown East,13
+TriBeCa/Civic Center,Upper East Side South,13
+Manhattan Valley,Meatpacking/West Village West,13
+Manhattan Valley,Hudson Sq,13
+Upper East Side North,Lincoln Square East,13
+Midtown East,East Village,13
+Astoria,Financial District North,13
+Alphabet City,Brooklyn Heights,13
+Midtown South,Union Sq,13
+Yorkville West,Newark Airport,13
+World Trade Center,Upper East Side South,13
+Lenox Hill West,TriBeCa/Civic Center,13
+Garment District,Clinton East,13
+Midtown Center,Meatpacking/West Village West,13
+Hudson Sq,Times Sq/Theatre District,13
+Washington Heights North,Upper West Side North,13
+East Village,UN/Turtle Bay South,13
+East Village,Bloomingdale,13
+Clinton West,UN/Turtle Bay South,13
+Bushwick South,Clinton West,13
+Lenox Hill West,Lenox Hill West,13
+Flatiron,Manhattan Valley,13
+Midtown Center,Bushwick South,13
+Hudson Sq,West Village,13
+Gramercy,Clinton East,13
+Financial District South,Murray Hill,13
+Penn Station/Madison Sq West,Bushwick South,13
+Manhattan Valley,Upper East Side South,13
+Murray Hill,Upper West Side North,13
+Times Sq/Theatre District,Union Sq,13
+Washington Heights North,Stuy Town/Peter Cooper Village,13
+Bloomingdale,Lincoln Square East,13
+Seaport,Gramercy,13
+UN/Turtle Bay South,Alphabet City,13
+Stuy Town/Peter Cooper Village,Lenox Hill East,13
+Penn Station/Madison Sq West,Times Sq/Theatre District,13
+Financial District South,Financial District South,13
+Washington Heights North,Penn Station/Madison Sq West,13
+Central Park,Gramercy,13
+Upper East Side North,Meatpacking/West Village West,13
+Battery Park,Washington Heights South,13
+Clinton West,East Harlem North,13
+Lower East Side,Stuy Town/Peter Cooper Village,13
+Sutton Place/Turtle Bay North,Washington Heights North,13
+Garment District,Bedford,13
+Two Bridges/Seward Park,Battery Park City,13
+Union Sq,Yorkville East,13
+Gramercy,Midtown North,13
+Sutton Place/Turtle Bay North,Midtown Center,13
+Alphabet City,Seaport,13
+Union Sq,East Village,13
+Financial District South,West Village,13
+Greenwich Village North,Lower East Side,13
+Flatiron,World Trade Center,13
+Lincoln Square West,Upper West Side South,13
+Stuy Town/Peter Cooper Village,Lower East Side,13
+Gramercy,East Village,13
+Meatpacking/West Village West,Lenox Hill East,13
+JFK Airport,Alphabet City,13
+SoHo,Bushwick South,13
+Midtown Center,Midtown East,13
+Murray Hill,Seaport,13
+Greenwich Village South,Upper East Side South,13
+Yorkville West,UN/Turtle Bay South,13
+Lenox Hill East,Gramercy,13
+Gramercy,Clinton West,13
+Greenwich Village South,Flatiron,13
+Clinton West,West Village,13
+Battery Park City,Greenwich Village North,13
+Battery Park,Washington Heights North,13
+JFK Airport,Lower East Side,13
+Central Harlem,Clinton West,13
+Lower East Side,Manhattan Valley,13
+Astoria,Lincoln Square East,13
+Upper West Side South,Newark Airport,13
+SoHo,Yorkville West,13
+Bloomingdale,Battery Park City,13
+Bushwick South,Washington Heights South,13
+Alphabet City,Financial District North,13
+Brooklyn Heights,JFK Airport,13
+Newark Airport,Financial District South,13
+Greenwich Village North,Upper East Side North,13
+Bloomingdale,Stuy Town/Peter Cooper Village,13
+Upper West Side North,West Village,13
+Newark Airport,SoHo,13
+East Chelsea,Battery Park City,13
+Newark Airport,Times Sq/Theatre District,13
+Murray Hill,TriBeCa/Civic Center,13
+Astoria,Clinton West,13
+Greenwich Village North,Newark Airport,13
+Clinton East,Midtown East,13
+Lincoln Square East,Seaport,13
+Financial District North,Hudson Sq,13
+Midtown East,Greenwich Village South,13
+Lenox Hill East,UN/Turtle Bay South,13
+Central Harlem,Seaport,13
+Two Bridges/Seward Park,Astoria,13
+SoHo,JFK Airport,13
+Astoria,Washington Heights South,13
+Two Bridges/Seward Park,Penn Station/Madison Sq West,13
+Greenwich Village North,World Trade Center,13
+Bedford,West Village,13
+Two Bridges/Seward Park,LaGuardia Airport,13
+Bushwick South,Sutton Place/Turtle Bay North,13
+Clinton West,Penn Station/Madison Sq West,13
+Alphabet City,Meatpacking/West Village West,13
+Gramercy,West Village,13
+Newark Airport,East Harlem North,13
+Upper West Side South,Midtown Center,13
+Upper East Side North,West Chelsea/Hudson Yards,13
+Hudson Sq,Upper West Side North,13
+Flatiron,Murray Hill,13
+Midtown Center,Murray Hill,13
+Financial District North,Penn Station/Madison Sq West,13
+Washington Heights South,Times Sq/Theatre District,13
+Murray Hill,Lincoln Square West,13
+Upper East Side South,East Chelsea,13
+Murray Hill,Murray Hill,13
+Meatpacking/West Village West,Clinton West,13
+Bushwick South,JFK Airport,13
+UN/Turtle Bay South,Newark Airport,13
+SoHo,Sutton Place/Turtle Bay North,13
+Manhattan Valley,Midtown South,13
+West Village,Stuy Town/Peter Cooper Village,13
+Upper East Side North,Lenox Hill West,13
+Sutton Place/Turtle Bay North,Greenwich Village South,13
+Manhattan Valley,Upper West Side South,13
+Upper East Side South,LaGuardia Airport,13
+Lincoln Square East,World Trade Center,13
+Sutton Place/Turtle Bay North,Brooklyn Heights,13
+Lenox Hill West,Meatpacking/West Village West,13
+Battery Park City,Lincoln Square West,13
+Upper West Side South,Lenox Hill East,13
+Battery Park City,Upper West Side South,13
+Greenwich Village South,Newark Airport,13
+Lincoln Square West,Battery Park City,13
+Alphabet City,Hudson Sq,13
+Midtown North,Stuy Town/Peter Cooper Village,13
+Lenox Hill East,Sutton Place/Turtle Bay North,13
+Midtown East,Garment District,13
+Stuy Town/Peter Cooper Village,Bushwick South,13
+Financial District South,East Chelsea,13
+Financial District North,West Chelsea/Hudson Yards,13
+Midtown Center,Times Sq/Theatre District,13
+Battery Park,West Village,13
+Upper East Side North,Manhattan Valley,13
+Upper West Side North,LaGuardia Airport,13
+Clinton East,Upper West Side South,13
+Penn Station/Madison Sq West,Midtown North,13
+Clinton West,Lenox Hill East,12
+Lenox Hill East,Penn Station/Madison Sq West,12
+Gramercy,Upper East Side North,12
+Midtown North,Meatpacking/West Village West,12
+Lincoln Square East,Battery Park,12
+Upper East Side North,Yorkville East,12
+Murray Hill,East Village,12
+Central Harlem,Lenox Hill West,12
+West Chelsea/Hudson Yards,East Chelsea,12
+Washington Heights North,Midtown South,12
+Flatiron,Penn Station/Madison Sq West,12
+West Village,Astoria,12
+Alphabet City,Upper East Side South,12
+Financial District South,Battery Park,12
+Astoria,Upper East Side South,12
+Lenox Hill West,Yorkville East,12
+Lincoln Square West,Two Bridges/Seward Park,12
+Upper East Side North,Penn Station/Madison Sq West,12
+Bedford,Washington Heights South,12
+Sutton Place/Turtle Bay North,Upper East Side North,12
+Stuy Town/Peter Cooper Village,World Trade Center,12
+Financial District South,JFK Airport,12
+East Harlem North,Gramercy,12
+East Chelsea,Clinton West,12
+World Trade Center,Brooklyn Heights,12
+Greenwich Village South,Midtown Center,12
+Seaport,Upper East Side South,12
+Greenwich Village North,East Village,12
+Two Bridges/Seward Park,Meatpacking/West Village West,12
+Upper East Side South,Penn Station/Madison Sq West,12
+West Village,Sutton Place/Turtle Bay North,12
+JFK Airport,Battery Park,12
+Yorkville East,Union Sq,12
+Central Park,East Harlem North,12
+Bushwick South,Upper West Side South,12
+Battery Park City,Sutton Place/Turtle Bay North,12
+Midtown East,Stuy Town/Peter Cooper Village,12
+Alphabet City,Battery Park,12
+Penn Station/Madison Sq West,Yorkville West,12
+World Trade Center,Bedford,12
+Washington Heights South,Garment District,12
+World Trade Center,Financial District South,12
+Two Bridges/Seward Park,East Chelsea,12
+Meatpacking/West Village West,East Chelsea,12
+Upper East Side South,TriBeCa/Civic Center,12
+Yorkville East,Alphabet City,12
+Clinton West,Lincoln Square East,12
+Midtown East,Flatiron,12
+Two Bridges/Seward Park,Lincoln Square West,12
+Upper West Side South,Upper West Side South,12
+Lincoln Square East,JFK Airport,12
+Times Sq/Theatre District,Midtown North,12
+Manhattan Valley,East Chelsea,12
+Financial District North,Washington Heights North,12
+Yorkville West,World Trade Center,12
+Clinton East,Midtown South,12
+East Village,Clinton East,12
+SoHo,Brooklyn Heights,12
+Washington Heights South,Midtown East,12
+Midtown South,Greenwich Village South,12
+Central Park,Manhattan Valley,12
+TriBeCa/Civic Center,Financial District South,12
+Clinton East,UN/Turtle Bay South,12
+Midtown Center,Financial District North,12
+Midtown South,UN/Turtle Bay South,12
+World Trade Center,Midtown Center,12
+Astoria,East Village,12
+Bloomingdale,Meatpacking/West Village West,12
+Newark Airport,Upper East Side South,12
+Washington Heights South,East Village,12
+Clinton East,Lincoln Square West,12
+Midtown East,Midtown Center,12
+Lower East Side,Washington Heights North,12
+SoHo,East Harlem North,12
+Washington Heights North,Sutton Place/Turtle Bay North,12
+LaGuardia Airport,Times Sq/Theatre District,12
+Midtown Center,Clinton East,12
+Central Harlem,Brooklyn Heights,12
+UN/Turtle Bay South,Lincoln Square West,12
+Bedford,Newark Airport,12
+Murray Hill,Financial District North,12
+Washington Heights North,SoHo,12
+Bloomingdale,Garment District,12
+Greenwich Village North,TriBeCa/Civic Center,12
+Battery Park,Manhattan Valley,12
+Astoria,Lower East Side,12
+East Chelsea,Central Harlem,12
+Battery Park,West Chelsea/Hudson Yards,12
+Lenox Hill West,Times Sq/Theatre District,12
+Greenwich Village South,Clinton East,12
+Midtown South,Manhattan Valley,12
+East Chelsea,Washington Heights North,12
+Greenwich Village North,Greenwich Village North,12
+JFK Airport,TriBeCa/Civic Center,12
+Sutton Place/Turtle Bay North,Bedford,12
+Union Sq,Greenwich Village North,12
+Clinton East,JFK Airport,12
+Bedford,JFK Airport,12
+SoHo,East Village,12
+Two Bridges/Seward Park,Lenox Hill West,12
+Garment District,Financial District South,12
+Lincoln Square West,Central Park,12
+Alphabet City,Lenox Hill West,12
+Seaport,Battery Park,12
+Seaport,Upper East Side North,12
+Clinton West,Midtown North,12
+Manhattan Valley,Greenwich Village North,12
+Upper East Side South,Union Sq,12
+Lenox Hill East,Newark Airport,12
+World Trade Center,UN/Turtle Bay South,12
+Lincoln Square East,Gramercy,12
+West Chelsea/Hudson Yards,Astoria,12
+Yorkville West,Meatpacking/West Village West,12
+Central Harlem,Hudson Sq,12
+Greenwich Village South,Manhattan Valley,12
+Lenox Hill East,Flatiron,12
+Financial District North,Greenwich Village North,12
+TriBeCa/Civic Center,East Village,12
+Lower East Side,West Chelsea/Hudson Yards,12
+Hudson Sq,Penn Station/Madison Sq West,12
+SoHo,Clinton West,12
+Battery Park City,Stuy Town/Peter Cooper Village,12
+Alphabet City,East Village,12
+Bedford,Lincoln Square West,12
+Yorkville West,LaGuardia Airport,12
+Astoria,Greenwich Village South,12
+East Harlem North,Washington Heights North,12
+TriBeCa/Civic Center,Midtown North,12
+Times Sq/Theatre District,Seaport,12
+LaGuardia Airport,World Trade Center,12
+Financial District South,Sutton Place/Turtle Bay North,12
+JFK Airport,Financial District North,12
+Upper East Side North,TriBeCa/Civic Center,12
+TriBeCa/Civic Center,Manhattan Valley,12
+Newark Airport,Upper East Side North,12
+Upper West Side South,Two Bridges/Seward Park,12
+Battery Park,Meatpacking/West Village West,12
+Lincoln Square East,Central Park,12
+East Chelsea,Midtown North,12
+SoHo,East Chelsea,12
+Financial District South,Clinton West,12
+West Village,Financial District South,12
+Greenwich Village South,Hudson Sq,12
+Washington Heights South,Penn Station/Madison Sq West,12
+Washington Heights South,Manhattan Valley,12
+Battery Park City,Central Park,12
+Brooklyn Heights,World Trade Center,12
+Times Sq/Theatre District,TriBeCa/Civic Center,12
+East Harlem North,West Chelsea/Hudson Yards,12
+Astoria,Greenwich Village North,12
+East Chelsea,Clinton East,12
+Washington Heights South,Greenwich Village South,12
+Clinton West,Battery Park City,12
+Two Bridges/Seward Park,Midtown East,12
+East Chelsea,Midtown Center,12
+Upper West Side South,Bloomingdale,12
+West Chelsea/Hudson Yards,Garment District,12
+Midtown South,Upper West Side North,12
+Stuy Town/Peter Cooper Village,Lincoln Square West,12
+Central Harlem,UN/Turtle Bay South,12
+Clinton West,Midtown Center,12
+Midtown South,Bloomingdale,12
+Sutton Place/Turtle Bay North,Financial District South,12
+SoHo,Midtown East,12
+Washington Heights South,Battery Park,12
+East Chelsea,Upper East Side North,12
+Financial District North,Battery Park City,12
+Washington Heights North,Clinton West,12
+Astoria,Financial District South,12
+Financial District North,Garment District,12
+Lincoln Square East,Meatpacking/West Village West,12
+Union Sq,Sutton Place/Turtle Bay North,12
+Yorkville East,Two Bridges/Seward Park,12
+Lincoln Square West,Times Sq/Theatre District,12
+Astoria,Gramercy,12
+Central Harlem,Upper East Side North,12
+Lenox Hill West,Battery Park,12
+Seaport,Lincoln Square West,12
+East Harlem North,Yorkville West,12
+Midtown East,Newark Airport,12
+Upper East Side North,Battery Park City,12
+Upper West Side North,East Harlem North,12
+West Village,Lenox Hill West,12
+Lenox Hill East,West Village,12
+Yorkville West,Seaport,12
+Midtown Center,Stuy Town/Peter Cooper Village,12
+Lincoln Square West,Seaport,12
+SoHo,Washington Heights South,12
+East Village,Upper West Side North,12
+Garment District,West Village,12
+Stuy Town/Peter Cooper Village,Sutton Place/Turtle Bay North,12
+Manhattan Valley,Bushwick South,12
+Battery Park City,Clinton West,12
+Midtown East,Manhattan Valley,12
+Midtown North,Battery Park City,12
+Upper East Side North,Gramercy,12
+Penn Station/Madison Sq West,Greenwich Village North,12
+Greenwich Village South,Midtown East,12
+Manhattan Valley,Garment District,12
+West Chelsea/Hudson Yards,TriBeCa/Civic Center,12
+Lincoln Square West,Lower East Side,12
+Upper East Side South,Hudson Sq,12
+TriBeCa/Civic Center,Battery Park City,12
+Upper East Side South,Meatpacking/West Village West,12
+Newark Airport,Lincoln Square West,12
+TriBeCa/Civic Center,Midtown Center,12
+Clinton West,Stuy Town/Peter Cooper Village,12
+Seaport,JFK Airport,12
+Two Bridges/Seward Park,Alphabet City,12
+Clinton West,Yorkville East,12
+Midtown South,Lenox Hill East,12
+Washington Heights North,Financial District South,12
+Midtown East,Clinton West,12
+West Village,Midtown North,12
+Central Park,Hudson Sq,12
+Lincoln Square West,Midtown Center,12
+Hudson Sq,Midtown Center,12
+Clinton East,Upper East Side South,12
+Midtown East,Astoria,12
+Washington Heights South,Midtown South,12
+JFK Airport,East Village,12
+Financial District North,Clinton East,12
+Midtown North,Yorkville West,12
+Lower East Side,Times Sq/Theatre District,12
+Meatpacking/West Village West,Midtown North,12
+West Chelsea/Hudson Yards,Manhattan Valley,12
+Hudson Sq,Battery Park City,12
+TriBeCa/Civic Center,Penn Station/Madison Sq West,12
+Penn Station/Madison Sq West,East Village,12
+East Village,Upper East Side South,12
+Battery Park,Financial District North,12
+LaGuardia Airport,Greenwich Village North,12
+Bedford,TriBeCa/Civic Center,12
+Stuy Town/Peter Cooper Village,East Village,12
+LaGuardia Airport,East Village,12
+East Harlem North,Astoria,12
+Lower East Side,Lincoln Square East,12
+JFK Airport,Greenwich Village South,12
+World Trade Center,Penn Station/Madison Sq West,12
+Astoria,Stuy Town/Peter Cooper Village,12
+Lenox Hill East,Bushwick South,12
+Alphabet City,Union Sq,12
+LaGuardia Airport,Battery Park City,12
+Astoria,Battery Park City,12
+World Trade Center,Astoria,12
+LaGuardia Airport,Lower East Side,12
+Astoria,Manhattan Valley,12
+Washington Heights South,Newark Airport,12
+East Chelsea,Lincoln Square East,12
+Union Sq,Lincoln Square East,12
+Stuy Town/Peter Cooper Village,Clinton West,12
+Washington Heights South,Seaport,12
+JFK Airport,Union Sq,12
+Meatpacking/West Village West,Bushwick South,12
+Midtown North,Astoria,12
+SoHo,Upper West Side South,12
+Upper West Side South,Bedford,12
+Lenox Hill East,Lenox Hill East,12
+Financial District North,Flatiron,12
+Alphabet City,Midtown East,12
+East Harlem North,SoHo,12
+Garment District,Lincoln Square West,12
+Times Sq/Theatre District,Clinton West,12
+Upper East Side North,Lower East Side,12
+Bloomingdale,TriBeCa/Civic Center,12
+Seaport,Upper West Side South,12
+Upper East Side North,Lincoln Square West,12
+Upper West Side South,Gramercy,12
+Battery Park,Yorkville East,12
+Greenwich Village South,JFK Airport,12
+West Chelsea/Hudson Yards,Sutton Place/Turtle Bay North,12
+Garment District,Central Park,12
+Two Bridges/Seward Park,Murray Hill,12
+TriBeCa/Civic Center,Washington Heights South,12
+Lincoln Square East,Washington Heights South,12
+Astoria,West Village,12
+East Harlem North,Greenwich Village North,12
+Brooklyn Heights,Washington Heights South,12
+Upper West Side South,East Harlem North,12
+Battery Park,Times Sq/Theatre District,12
+Lincoln Square West,Alphabet City,12
+SoHo,Yorkville East,12
+Midtown North,West Village,12
+Bushwick South,Penn Station/Madison Sq West,12
+Murray Hill,SoHo,12
+Bloomingdale,LaGuardia Airport,12
+TriBeCa/Civic Center,TriBeCa/Civic Center,12
+Washington Heights North,Meatpacking/West Village West,12
+Central Harlem,West Village,12
+Astoria,Meatpacking/West Village West,12
+Battery Park,Greenwich Village North,12
+Financial District South,Bedford,12
+Times Sq/Theatre District,JFK Airport,12
+Meatpacking/West Village West,Yorkville East,12
+Battery Park,Upper West Side South,12
+Midtown North,East Chelsea,12
+Midtown South,Sutton Place/Turtle Bay North,12
+Bedford,Bushwick South,12
+Garment District,Upper East Side South,12
+Bloomingdale,Murray Hill,12
+SoHo,Times Sq/Theatre District,12
+Bedford,Lincoln Square East,12
+East Village,Greenwich Village South,12
+World Trade Center,Union Sq,12
+Seaport,Bushwick South,12
+Meatpacking/West Village West,Flatiron,12
+Upper East Side South,Financial District South,12
+Midtown East,Sutton Place/Turtle Bay North,12
+Midtown North,Flatiron,11
+Union Sq,Financial District North,11
+Upper East Side South,Upper West Side North,11
+Washington Heights North,Battery Park City,11
+Manhattan Valley,Greenwich Village South,11
+Stuy Town/Peter Cooper Village,Murray Hill,11
+Two Bridges/Seward Park,Midtown South,11
+Penn Station/Madison Sq West,Midtown East,11
+Newark Airport,Greenwich Village North,11
+Penn Station/Madison Sq West,LaGuardia Airport,11
+Lower East Side,Midtown East,11
+Brooklyn Heights,East Village,11
+Stuy Town/Peter Cooper Village,Astoria,11
+Clinton West,Bedford,11
+Lenox Hill West,Clinton West,11
+Alphabet City,Central Park,11
+Financial District South,Flatiron,11
+Manhattan Valley,Alphabet City,11
+Meatpacking/West Village West,East Village,11
+Lenox Hill West,Manhattan Valley,11
+UN/Turtle Bay South,Astoria,11
+Gramercy,Upper East Side South,11
+SoHo,Two Bridges/Seward Park,11
+Upper West Side North,West Chelsea/Hudson Yards,11
+Yorkville West,Bedford,11
+Midtown East,Upper West Side South,11
+Midtown East,SoHo,11
+West Village,Gramercy,11
+Washington Heights South,UN/Turtle Bay South,11
+Financial District North,TriBeCa/Civic Center,11
+LaGuardia Airport,Midtown South,11
+Midtown East,Penn Station/Madison Sq West,11
+Flatiron,Times Sq/Theatre District,11
+Financial District North,Seaport,11
+Sutton Place/Turtle Bay North,TriBeCa/Civic Center,11
+Brooklyn Heights,Murray Hill,11
+Yorkville West,Two Bridges/Seward Park,11
+East Village,Lower East Side,11
+Lower East Side,Greenwich Village South,11
+Greenwich Village South,Seaport,11
+TriBeCa/Civic Center,Central Harlem,11
+Midtown Center,SoHo,11
+Central Park,East Chelsea,11
+Upper West Side North,Battery Park City,11
+Meatpacking/West Village West,Murray Hill,11
+TriBeCa/Civic Center,Lower East Side,11
+Manhattan Valley,Clinton West,11
+Union Sq,World Trade Center,11
+Upper East Side North,Clinton West,11
+Hudson Sq,Greenwich Village North,11
+Murray Hill,East Harlem North,11
+Greenwich Village North,Penn Station/Madison Sq West,11
+UN/Turtle Bay South,Upper West Side South,11
+Clinton East,Midtown North,11
+Financial District South,Penn Station/Madison Sq West,11
+Midtown North,Lincoln Square East,11
+Alphabet City,Yorkville West,11
+Sutton Place/Turtle Bay North,Bloomingdale,11
+Upper East Side South,Garment District,11
+East Harlem North,Central Harlem,11
+Lincoln Square West,Lenox Hill West,11
+Battery Park City,Garment District,11
+Meatpacking/West Village West,Midtown South,11
+Manhattan Valley,Flatiron,11
+Washington Heights North,Manhattan Valley,11
+Meatpacking/West Village West,Central Harlem,11
+Midtown Center,Greenwich Village North,11
+Yorkville West,Sutton Place/Turtle Bay North,11
+Clinton East,Hudson Sq,11
+Newark Airport,Yorkville East,11
+Bedford,Upper West Side South,11
+Hudson Sq,JFK Airport,11
+Bushwick South,East Chelsea,11
+East Harlem North,Financial District North,11
+Clinton East,Alphabet City,11
+UN/Turtle Bay South,Clinton East,11
+UN/Turtle Bay South,West Village,11
+Bushwick South,Midtown East,11
+Financial District North,Central Harlem,11
+Alphabet City,Bushwick South,11
+West Village,Washington Heights North,11
+Lower East Side,SoHo,11
+Upper East Side North,Greenwich Village North,11
+Greenwich Village North,Lincoln Square West,11
+Upper West Side South,Central Park,11
+Greenwich Village North,Greenwich Village South,11
+Lincoln Square East,Lower East Side,11
+Central Park,Upper West Side South,11
+Washington Heights North,East Chelsea,11
+Greenwich Village North,Sutton Place/Turtle Bay North,11
+Yorkville West,Lenox Hill West,11
+East Harlem North,Manhattan Valley,11
+Astoria,Clinton East,11
+Midtown Center,Manhattan Valley,11
+Yorkville West,Central Harlem,11
+Yorkville West,Flatiron,11
+Meatpacking/West Village West,Financial District North,11
+Upper West Side South,UN/Turtle Bay South,11
+Manhattan Valley,Bedford,11
+Times Sq/Theatre District,West Village,11
+Yorkville West,Greenwich Village North,11
+JFK Airport,West Village,11
+Upper West Side South,Yorkville East,11
+Yorkville East,Midtown East,11
+Union Sq,Brooklyn Heights,11
+Upper East Side North,Seaport,11
+West Village,Central Park,11
+Lenox Hill West,Washington Heights South,11
+Manhattan Valley,Midtown North,11
+Meatpacking/West Village West,Washington Heights South,11
+Lincoln Square East,Upper West Side South,11
+Battery Park,Astoria,11
+TriBeCa/Civic Center,Sutton Place/Turtle Bay North,11
+Upper East Side North,Lenox Hill East,11
+West Village,Lincoln Square West,11
+West Village,Lincoln Square East,11
+Central Harlem,West Chelsea/Hudson Yards,11
+Upper East Side South,Bedford,11
+Newark Airport,Hudson Sq,11
+JFK Airport,Lincoln Square East,11
+Times Sq/Theatre District,Murray Hill,11
+UN/Turtle Bay South,Penn Station/Madison Sq West,11
+West Village,Battery Park,11
+TriBeCa/Civic Center,Stuy Town/Peter Cooper Village,11
+Lenox Hill West,Washington Heights North,11
+Lincoln Square West,East Chelsea,11
+Upper West Side North,East Chelsea,11
+Times Sq/Theatre District,Upper West Side South,11
+Greenwich Village South,Financial District North,11
+Yorkville West,Yorkville East,11
+Lenox Hill East,East Chelsea,11
+Midtown South,Penn Station/Madison Sq West,11
+Stuy Town/Peter Cooper Village,Yorkville West,11
+Yorkville East,Upper East Side North,11
+Newark Airport,Penn Station/Madison Sq West,11
+Yorkville West,SoHo,11
+West Village,Times Sq/Theatre District,11
+UN/Turtle Bay South,Midtown South,11
+East Chelsea,Upper West Side South,11
+Penn Station/Madison Sq West,Sutton Place/Turtle Bay North,11
+Financial District South,Midtown North,11
+Two Bridges/Seward Park,Bloomingdale,11
+Yorkville East,Battery Park,11
+Washington Heights South,Clinton West,11
+Times Sq/Theatre District,Battery Park,11
+Greenwich Village South,Sutton Place/Turtle Bay North,11
+Central Park,Lenox Hill West,11
+Times Sq/Theatre District,Lincoln Square East,11
+Upper East Side South,Battery Park City,11
+Sutton Place/Turtle Bay North,Lincoln Square West,11
+Battery Park,Upper East Side North,11
+Greenwich Village South,Lenox Hill East,11
+Alphabet City,Central Harlem,11
+Upper West Side North,Midtown East,11
+Upper East Side North,Yorkville West,11
+East Harlem North,Lincoln Square West,11
+Yorkville West,Lincoln Square East,11
+Midtown Center,Flatiron,11
+Upper West Side South,JFK Airport,11
+Financial District North,SoHo,11
+Murray Hill,Lincoln Square East,11
+Clinton West,Bloomingdale,11
+Lincoln Square West,Greenwich Village North,11
+Newark Airport,Midtown South,11
+Sutton Place/Turtle Bay North,Union Sq,11
+Seaport,Stuy Town/Peter Cooper Village,11
+Financial District North,Bushwick South,11
+Gramercy,JFK Airport,11
+Garment District,SoHo,11
+Central Park,Financial District North,11
+Midtown South,Midtown East,11
+West Chelsea/Hudson Yards,Lincoln Square East,11
+Yorkville East,Lenox Hill East,11
+Lenox Hill East,Bloomingdale,11
+Central Park,Stuy Town/Peter Cooper Village,11
+Clinton West,Clinton East,11
+LaGuardia Airport,Yorkville East,11
+LaGuardia Airport,Clinton East,11
+Sutton Place/Turtle Bay North,Battery Park,11
+Times Sq/Theatre District,Stuy Town/Peter Cooper Village,11
+Two Bridges/Seward Park,Battery Park,11
+Union Sq,Midtown North,11
+West Village,Bedford,11
+East Harlem North,UN/Turtle Bay South,11
+Garment District,Upper West Side South,11
+Upper West Side South,Greenwich Village South,11
+Brooklyn Heights,Stuy Town/Peter Cooper Village,11
+Central Park,SoHo,11
+Midtown North,Two Bridges/Seward Park,11
+Central Park,Upper West Side North,11
+JFK Airport,SoHo,11
+Times Sq/Theatre District,Yorkville East,11
+Midtown East,Upper East Side South,11
+SoHo,Bedford,11
+Midtown South,Brooklyn Heights,11
+Bloomingdale,Midtown East,11
+Seaport,Midtown Center,11
+Seaport,Lincoln Square East,11
+Financial District South,Greenwich Village South,11
+Lenox Hill West,Midtown East,11
+Battery Park,Lincoln Square East,11
+Midtown Center,Upper East Side South,11
+Newark Airport,Manhattan Valley,11
+Alphabet City,Lincoln Square East,11
+Upper East Side South,Lower East Side,11
+Midtown South,West Chelsea/Hudson Yards,11
+Lenox Hill East,Upper West Side South,11
+Clinton West,Astoria,11
+Battery Park,Stuy Town/Peter Cooper Village,11
+World Trade Center,Washington Heights South,11
+Seaport,Central Harlem,11
+Garment District,TriBeCa/Civic Center,11
+LaGuardia Airport,Yorkville West,11
+West Village,Meatpacking/West Village West,11
+Lincoln Square East,Lincoln Square East,11
+Bedford,Midtown North,11
+Brooklyn Heights,Lincoln Square West,11
+Flatiron,Midtown North,11
+Bedford,Lenox Hill East,11
+Midtown Center,West Chelsea/Hudson Yards,11
+Battery Park,Lenox Hill East,11
+World Trade Center,Midtown South,11
+Upper West Side North,World Trade Center,11
+Hudson Sq,Washington Heights North,11
+Washington Heights South,Meatpacking/West Village West,11
+Garment District,Seaport,11
+Murray Hill,Two Bridges/Seward Park,11
+Times Sq/Theatre District,Garment District,11
+Bedford,Central Harlem,11
+Alphabet City,Newark Airport,11
+Financial District South,Garment District,11
+Clinton East,Times Sq/Theatre District,11
+Battery Park City,Midtown Center,11
+Central Park,Washington Heights South,11
+Bedford,Financial District North,11
+Financial District North,Financial District North,11
+Bushwick South,Gramercy,11
+Washington Heights North,Times Sq/Theatre District,11
+Lenox Hill West,Alphabet City,11
+Financial District South,Yorkville East,11
+LaGuardia Airport,Stuy Town/Peter Cooper Village,11
+Clinton East,Clinton East,11
+Financial District North,East Harlem North,11
+Stuy Town/Peter Cooper Village,Upper East Side North,11
+Garment District,Midtown North,11
+JFK Airport,Hudson Sq,11
+Manhattan Valley,Lincoln Square East,11
+Washington Heights North,West Village,11
+Sutton Place/Turtle Bay North,Lower East Side,11
+Stuy Town/Peter Cooper Village,Clinton East,11
+Midtown Center,East Village,11
+Garment District,Meatpacking/West Village West,11
+Lenox Hill East,Midtown North,11
+Brooklyn Heights,Times Sq/Theatre District,11
+SoHo,Greenwich Village North,11
+Greenwich Village North,Bedford,11
+Lenox Hill East,Financial District South,11
+Bedford,East Chelsea,11
+Times Sq/Theatre District,Lenox Hill West,11
+Murray Hill,Midtown East,11
+Clinton West,Greenwich Village South,11
+Bloomingdale,Financial District South,11
+Bedford,Midtown East,11
+Flatiron,Central Harlem,11
+Sutton Place/Turtle Bay North,Clinton East,11
+Two Bridges/Seward Park,TriBeCa/Civic Center,11
+Murray Hill,Garment District,11
+Upper West Side South,Brooklyn Heights,11
+Midtown North,Upper East Side North,11
+JFK Airport,JFK Airport,11
+Bloomingdale,Financial District North,11
+Midtown North,Manhattan Valley,11
+Washington Heights South,Financial District North,11
+Midtown South,Lower East Side,11
+Upper West Side North,Union Sq,11
+West Chelsea/Hudson Yards,Stuy Town/Peter Cooper Village,11
+East Chelsea,Flatiron,11
+Murray Hill,Battery Park City,11
+LaGuardia Airport,Bushwick South,11
+JFK Airport,Astoria,11
+Upper East Side South,Seaport,11
+Penn Station/Madison Sq West,Clinton West,11
+Battery Park,East Harlem North,11
+LaGuardia Airport,Midtown Center,11
+Midtown Center,World Trade Center,11
+Bedford,Yorkville East,11
+Murray Hill,Battery Park,11
+Midtown East,Midtown North,11
+JFK Airport,Battery Park City,11
+Gramercy,Upper West Side North,11
+Greenwich Village South,Brooklyn Heights,11
+JFK Airport,Washington Heights South,11
+East Harlem North,Union Sq,10
+East Harlem North,Hudson Sq,10
+West Chelsea/Hudson Yards,Lenox Hill West,10
+Washington Heights North,Washington Heights North,10
+Financial District South,Midtown South,10
+Bloomingdale,Central Park,10
+Central Park,Upper East Side South,10
+Midtown North,Brooklyn Heights,10
+Central Harlem,Upper West Side South,10
+Battery Park,Gramercy,10
+Times Sq/Theatre District,Flatiron,10
+Union Sq,West Village,10
+Hudson Sq,Bushwick South,10
+Union Sq,Upper West Side North,10
+Greenwich Village North,SoHo,10
+Upper East Side North,Bushwick South,10
+Lenox Hill East,Times Sq/Theatre District,10
+Garment District,Newark Airport,10
+Bedford,Bedford,10
+Clinton East,Greenwich Village North,10
+Meatpacking/West Village West,SoHo,10
+Lincoln Square East,Midtown East,10
+Union Sq,Midtown South,10
+Garment District,Manhattan Valley,10
+Lenox Hill East,Central Harlem,10
+SoHo,Midtown Center,10
+Clinton East,Lower East Side,10
+West Village,Clinton East,10
+Bedford,Lower East Side,10
+LaGuardia Airport,West Village,10
+Manhattan Valley,Stuy Town/Peter Cooper Village,10
+Greenwich Village North,Battery Park,10
+Washington Heights North,Gramercy,10
+Central Harlem,Washington Heights North,10
+Yorkville East,Stuy Town/Peter Cooper Village,10
+Stuy Town/Peter Cooper Village,Bedford,10
+Clinton East,Upper East Side North,10
+Upper West Side South,Battery Park,10
+Upper East Side South,East Harlem North,10
+Flatiron,East Village,10
+Central Park,Clinton West,10
+West Chelsea/Hudson Yards,Times Sq/Theatre District,10
+Yorkville West,Upper East Side North,10
+Hudson Sq,Midtown South,10
+Lincoln Square West,Clinton West,10
+Washington Heights North,UN/Turtle Bay South,10
+Astoria,Alphabet City,10
+Upper West Side North,Lincoln Square East,10
+Central Harlem,Greenwich Village North,10
+Lincoln Square East,West Chelsea/Hudson Yards,10
+Bedford,Greenwich Village South,10
+Sutton Place/Turtle Bay North,Upper West Side North,10
+Clinton West,Central Harlem,10
+Financial District North,Lower East Side,10
+Upper East Side South,Clinton West,10
+Midtown South,Financial District South,10
+Yorkville West,Lenox Hill East,10
+Murray Hill,World Trade Center,10
+Lenox Hill West,East Harlem North,10
+Times Sq/Theatre District,Financial District South,10
+Times Sq/Theatre District,World Trade Center,10
+Lincoln Square West,Lincoln Square East,10
+Brooklyn Heights,Union Sq,10
+Midtown East,JFK Airport,10
+Flatiron,Lenox Hill East,10
+Central Park,Clinton East,10
+Midtown South,Two Bridges/Seward Park,10
+Midtown Center,Clinton West,10
+Alphabet City,Midtown South,10
+Upper East Side North,Greenwich Village South,10
+Upper East Side North,East Chelsea,10
+Greenwich Village South,Penn Station/Madison Sq West,10
+Lincoln Square West,Yorkville West,10
+Bloomingdale,Union Sq,10
+JFK Airport,Upper East Side North,10
+Two Bridges/Seward Park,Upper East Side North,10
+World Trade Center,Hudson Sq,10
+West Chelsea/Hudson Yards,Yorkville West,10
+Alphabet City,Lenox Hill East,10
+Central Park,Lower East Side,10
+Clinton West,Newark Airport,10
+World Trade Center,Yorkville East,10
+Battery Park,Newark Airport,10
+Times Sq/Theatre District,Gramercy,10
+Greenwich Village North,Central Harlem,10
+Lenox Hill East,Battery Park City,10
+Brooklyn Heights,Newark Airport,10
+Bedford,Penn Station/Madison Sq West,10
+Washington Heights North,Bloomingdale,10
+East Harlem North,Clinton West,10
+Financial District North,Upper East Side North,10
+East Harlem North,Upper East Side South,10
+Clinton West,Washington Heights South,10
+Financial District South,LaGuardia Airport,10
+Lenox Hill West,Midtown North,10
+Greenwich Village North,Union Sq,10
+Lenox Hill East,World Trade Center,10
+Union Sq,Meatpacking/West Village West,10
+East Chelsea,Washington Heights South,10
+Midtown South,East Harlem North,10
+Upper West Side South,Penn Station/Madison Sq West,10
+Central Harlem,Lower East Side,10
+Central Park,Alphabet City,10
+Midtown Center,Lincoln Square East,10
+Clinton West,Upper East Side South,10
+Clinton East,Union Sq,10
+Greenwich Village North,Financial District North,10
+Midtown Center,Central Park,10
+Murray Hill,Newark Airport,10
+SoHo,West Chelsea/Hudson Yards,10
+Midtown East,Washington Heights South,10
+East Chelsea,West Chelsea/Hudson Yards,10
+Lenox Hill East,Upper East Side South,10
+Lenox Hill East,Clinton West,10
+Astoria,Lenox Hill East,10
+Times Sq/Theatre District,Upper West Side North,10
+JFK Airport,Seaport,10
+Lincoln Square East,Greenwich Village North,10
+Central Park,Yorkville East,10
+Clinton East,Stuy Town/Peter Cooper Village,10
+Lincoln Square East,Murray Hill,10
+Newark Airport,Clinton West,10
+West Village,Upper East Side North,10
+Upper West Side North,TriBeCa/Civic Center,10
+LaGuardia Airport,Battery Park,10
+Central Park,Bushwick South,10
+Alphabet City,Upper West Side South,10
+UN/Turtle Bay South,Battery Park,10
+Washington Heights North,Bushwick South,10
+East Harlem North,Yorkville East,10
+UN/Turtle Bay South,Lincoln Square East,10
+Newark Airport,World Trade Center,10
+Union Sq,Greenwich Village South,10
+Gramercy,Bedford,10
+World Trade Center,Lincoln Square East,10
+East Harlem North,Greenwich Village South,10
+Central Harlem,Manhattan Valley,10
+Lincoln Square West,TriBeCa/Civic Center,10
+Lenox Hill East,West Chelsea/Hudson Yards,10
+Stuy Town/Peter Cooper Village,West Chelsea/Hudson Yards,10
+Flatiron,Washington Heights North,10
+Battery Park,Seaport,10
+Lincoln Square West,Washington Heights North,10
+Manhattan Valley,Astoria,10
+East Chelsea,West Village,10
+Lenox Hill West,Lower East Side,10
+Gramercy,Yorkville East,10
+Newark Airport,Brooklyn Heights,10
+Financial District North,Union Sq,10
+Brooklyn Heights,Seaport,10
+Stuy Town/Peter Cooper Village,Union Sq,10
+Upper East Side South,Washington Heights North,10
+Lower East Side,Flatiron,10
+Lincoln Square West,West Village,10
+Yorkville West,Central Park,10
+Manhattan Valley,Battery Park City,10
+Yorkville West,Clinton West,10
+Battery Park,Union Sq,10
+Lenox Hill East,Greenwich Village South,10
+World Trade Center,Times Sq/Theatre District,10
+Clinton East,Lincoln Square East,10
+East Harlem North,Upper West Side South,10
+Washington Heights South,East Harlem North,10
+UN/Turtle Bay South,SoHo,10
+Lenox Hill East,East Harlem North,10
+Newark Airport,Central Harlem,10
+Penn Station/Madison Sq West,Union Sq,10
+Midtown Center,Washington Heights South,10
+Lincoln Square West,Sutton Place/Turtle Bay North,10
+Greenwich Village North,Meatpacking/West Village West,10
+Financial District South,Lenox Hill West,10
+East Chelsea,Financial District North,10
+Meatpacking/West Village West,Bedford,10
+Greenwich Village South,Upper West Side South,10
+Upper West Side South,LaGuardia Airport,10
+Lenox Hill West,Upper East Side North,10
+Gramercy,Central Park,10
+Newark Airport,Newark Airport,10
+Alphabet City,Flatiron,10
+Union Sq,Central Harlem,10
+Central Harlem,Lenox Hill East,10
+Lenox Hill East,Midtown East,10
+Alphabet City,Clinton West,10
+East Harlem North,Bloomingdale,10
+East Harlem North,Washington Heights South,10
+Astoria,Upper West Side North,10
+West Village,East Village,10
+Manhattan Valley,Times Sq/Theatre District,10
+Alphabet City,Upper East Side North,10
+Upper East Side South,Midtown North,10
+Astoria,Central Park,10
+Washington Heights South,Midtown North,10
+Clinton East,Murray Hill,10
+Midtown South,Alphabet City,10
+Times Sq/Theatre District,West Chelsea/Hudson Yards,10
+SoHo,Lincoln Square West,10
+SoHo,LaGuardia Airport,10
+Bushwick South,Bloomingdale,10
+West Chelsea/Hudson Yards,Seaport,10
+Yorkville East,Yorkville East,10
+Upper East Side South,Lincoln Square East,10
+East Harlem North,Midtown East,10
+East Village,JFK Airport,9
+Astoria,Lincoln Square West,9
+East Village,Yorkville West,9
+Hudson Sq,Yorkville West,9
+Murray Hill,Alphabet City,9
+Manhattan Valley,Manhattan Valley,9
+Meatpacking/West Village West,Times Sq/Theatre District,9
+Stuy Town/Peter Cooper Village,Alphabet City,9
+Gramercy,Midtown South,9
+LaGuardia Airport,Seaport,9
+West Chelsea/Hudson Yards,Lincoln Square West,9
+West Chelsea/Hudson Yards,Alphabet City,9
+Bushwick South,Clinton East,9
+Bloomingdale,Brooklyn Heights,9
+Greenwich Village South,Battery Park City,9
+Lincoln Square West,Financial District North,9
+Bushwick South,Greenwich Village South,9
+Midtown South,Hudson Sq,9
+Gramercy,Bushwick South,9
+Flatiron,Yorkville West,9
+Flatiron,TriBeCa/Civic Center,9
+Central Harlem,Bloomingdale,9
+JFK Airport,Meatpacking/West Village West,9
+Hudson Sq,Lenox Hill West,9
+Union Sq,Upper East Side South,9
+Midtown North,SoHo,9
+Manhattan Valley,Midtown Center,9
+JFK Airport,West Chelsea/Hudson Yards,9
+East Village,Washington Heights South,9
+Penn Station/Madison Sq West,Brooklyn Heights,9
+Lenox Hill East,Yorkville East,9
+Bedford,Union Sq,9
+Yorkville East,Times Sq/Theatre District,9
+Financial District North,Financial District South,9
+Upper East Side South,Brooklyn Heights,9
+Union Sq,Manhattan Valley,9
+Brooklyn Heights,Financial District South,9
+JFK Airport,Gramercy,9
+Penn Station/Madison Sq West,Bedford,9
+Midtown East,Greenwich Village North,9
+Financial District North,Times Sq/Theatre District,9
+Union Sq,Midtown East,9
+Upper West Side South,Meatpacking/West Village West,9
+West Chelsea/Hudson Yards,Clinton East,9
+Murray Hill,Brooklyn Heights,9
+Lenox Hill West,Upper West Side South,9
+Lincoln Square East,Astoria,9
+Yorkville East,East Village,9
+TriBeCa/Civic Center,Clinton East,9
+LaGuardia Airport,Lenox Hill West,9
+Union Sq,Washington Heights North,9
+Midtown South,LaGuardia Airport,9
+JFK Airport,Manhattan Valley,9
+Financial District North,Meatpacking/West Village West,9
+Upper East Side North,East Harlem North,9
+Hudson Sq,Upper West Side South,9
+Bushwick South,Stuy Town/Peter Cooper Village,9
+Upper West Side North,Seaport,9
+World Trade Center,Lenox Hill West,9
+Gramercy,Lenox Hill East,9
+LaGuardia Airport,Upper East Side North,9
+Flatiron,East Harlem North,9
+Clinton West,Times Sq/Theatre District,9
+Financial District North,Yorkville West,9
+Garment District,JFK Airport,9
+East Village,TriBeCa/Civic Center,9
+World Trade Center,SoHo,9
+Newark Airport,West Village,9
+Penn Station/Madison Sq West,Stuy Town/Peter Cooper Village,9
+Lincoln Square West,Clinton East,9
+Brooklyn Heights,Manhattan Valley,9
+Midtown Center,Astoria,9
+Alphabet City,UN/Turtle Bay South,9
+Battery Park City,Newark Airport,9
+East Harlem North,Penn Station/Madison Sq West,9
+LaGuardia Airport,Sutton Place/Turtle Bay North,9
+Newark Airport,Astoria,9
+Financial District South,Upper East Side South,9
+Brooklyn Heights,Bedford,9
+Lincoln Square East,Brooklyn Heights,9
+Washington Heights South,Upper East Side South,9
+East Harlem North,East Harlem North,9
+Greenwich Village North,Upper West Side North,9
+East Village,Lincoln Square East,9
+Lincoln Square West,Penn Station/Madison Sq West,9
+East Harlem North,Bedford,9
+Bushwick South,Yorkville West,9
+Yorkville West,Hudson Sq,9
+Clinton West,Battery Park,9
+Battery Park City,Clinton East,9
+Astoria,Brooklyn Heights,9
+TriBeCa/Civic Center,Yorkville West,9
+Penn Station/Madison Sq West,Upper West Side North,9
+Manhattan Valley,Gramercy,9
+LaGuardia Airport,LaGuardia Airport,9
+Lincoln Square West,Lenox Hill East,9
+Midtown North,Battery Park,9
+Washington Heights North,Newark Airport,9
+SoHo,Bloomingdale,9
+Clinton East,Bushwick South,9
+Flatiron,East Chelsea,9
+East Harlem North,Midtown North,9
+Upper East Side North,Garment District,9
+Financial District North,Lenox Hill East,9
+Bedford,Upper East Side South,9
+Bushwick South,Bushwick South,9
+Brooklyn Heights,SoHo,9
+Central Park,Flatiron,9
+Yorkville East,Murray Hill,9
+Meatpacking/West Village West,Midtown East,9
+Two Bridges/Seward Park,Central Harlem,9
+Greenwich Village South,Central Harlem,9
+Lenox Hill East,Midtown South,9
+Lower East Side,Penn Station/Madison Sq West,9
+Two Bridges/Seward Park,Manhattan Valley,9
+SoHo,Alphabet City,9
+Sutton Place/Turtle Bay North,Times Sq/Theatre District,9
+Lenox Hill East,Midtown Center,9
+Lincoln Square West,Central Harlem,9
+Central Park,Upper East Side North,9
+Union Sq,Washington Heights South,9
+Greenwich Village North,Yorkville West,9
+Lower East Side,Lincoln Square West,9
+East Village,Manhattan Valley,9
+Clinton East,West Chelsea/Hudson Yards,9
+Manhattan Valley,Yorkville East,9
+JFK Airport,Lenox Hill East,9
+Clinton East,Washington Heights North,9
+Astoria,World Trade Center,9
+Greenwich Village South,Greenwich Village South,9
+East Village,Clinton West,9
+Murray Hill,Upper East Side South,9
+Garment District,UN/Turtle Bay South,9
+Bedford,Hudson Sq,9
+East Chelsea,Murray Hill,9
+Washington Heights South,Clinton East,9
+Yorkville West,Lower East Side,9
+Stuy Town/Peter Cooper Village,Newark Airport,9
+TriBeCa/Civic Center,Seaport,9
+Penn Station/Madison Sq West,Flatiron,8
+East Village,LaGuardia Airport,8
+Hudson Sq,Lincoln Square East,8
+Yorkville East,SoHo,8
+Brooklyn Heights,Midtown Center,8
+LaGuardia Airport,Penn Station/Madison Sq West,8
+Murray Hill,Greenwich Village South,8
+JFK Airport,Upper East Side South,8
+Lincoln Square West,Hudson Sq,8
+Central Park,Newark Airport,8
+Flatiron,Astoria,8
+Seaport,Midtown South,8
+Upper East Side South,Two Bridges/Seward Park,8
+Bloomingdale,Seaport,8
+Upper West Side South,East Village,8
+Central Harlem,LaGuardia Airport,8
+Sutton Place/Turtle Bay North,Meatpacking/West Village West,8
+East Harlem North,LaGuardia Airport,8
+Sutton Place/Turtle Bay North,Lincoln Square East,8
+Brooklyn Heights,Upper East Side North,8
+Washington Heights South,Yorkville West,8
+Seaport,East Village,8
+Stuy Town/Peter Cooper Village,Bloomingdale,8
+Washington Heights South,East Chelsea,8
+Union Sq,Astoria,8
+Battery Park City,Manhattan Valley,8
+Central Harlem,Lincoln Square East,8
+Newark Airport,Flatiron,8
+Midtown East,Gramercy,8
+Central Harlem,Greenwich Village South,8
+Upper East Side South,Central Park,8
+Stuy Town/Peter Cooper Village,East Harlem North,8
+Upper East Side North,Upper West Side North,8
+Gramercy,Central Harlem,8
+World Trade Center,Stuy Town/Peter Cooper Village,8
+Central Harlem,Central Harlem,8
+JFK Airport,Penn Station/Madison Sq West,8
+Yorkville East,Greenwich Village South,8
+Meatpacking/West Village West,Greenwich Village South,8
+Lenox Hill West,Union Sq,8
+Flatiron,Midtown South,8
+East Chelsea,Stuy Town/Peter Cooper Village,8
+Meatpacking/West Village West,Meatpacking/West Village West,8
+Times Sq/Theatre District,East Village,8
+Brooklyn Heights,Garment District,8
+Union Sq,Yorkville West,8
+Upper West Side North,Times Sq/Theatre District,8
+Bushwick South,Battery Park City,8
+Battery Park,Lenox Hill West,8
+Upper West Side South,Lincoln Square West,8
+Lenox Hill West,Bushwick South,8
+Yorkville East,Upper West Side South,8
+Two Bridges/Seward Park,Yorkville West,8
+Midtown Center,Financial District South,8
+Lincoln Square West,Midtown North,8
+Upper East Side South,East Village,8
+Midtown East,Lenox Hill West,8
+Upper West Side South,Union Sq,8
+West Chelsea/Hudson Yards,Midtown North,8
+East Village,Garment District,8
+Upper West Side North,Bloomingdale,8
+Midtown South,Flatiron,8
+Midtown Center,Washington Heights North,8
+Yorkville East,Financial District North,8
+Hudson Sq,Lower East Side,8
+Upper East Side South,Times Sq/Theatre District,8
+Manhattan Valley,Financial District South,8
+Gramercy,Newark Airport,8
+Midtown South,Upper East Side North,8
+Washington Heights South,Astoria,8
+Bushwick South,Upper East Side North,8
+Sutton Place/Turtle Bay North,East Village,8
+Hudson Sq,Astoria,8
+Bedford,Lenox Hill West,8
+West Chelsea/Hudson Yards,Central Park,8
+Penn Station/Madison Sq West,Washington Heights South,8
+Lenox Hill West,LaGuardia Airport,8
+Washington Heights North,Bedford,8
+Midtown East,Battery Park,8
+Washington Heights South,Central Park,8
+Sutton Place/Turtle Bay North,Stuy Town/Peter Cooper Village,8
+Lenox Hill East,LaGuardia Airport,7
+Seaport,East Harlem North,7
+Clinton East,Washington Heights South,7
+Financial District South,Two Bridges/Seward Park,7
+Meatpacking/West Village West,Upper West Side North,7
+Midtown South,World Trade Center,7
+World Trade Center,Murray Hill,7
+Penn Station/Madison Sq West,Astoria,7
+Upper East Side South,Financial District North,7
+Lower East Side,JFK Airport,7
+Yorkville East,Brooklyn Heights,7
+Seaport,Meatpacking/West Village West,7
+West Village,East Chelsea,7
+Clinton East,Newark Airport,7
+Upper West Side North,Flatiron,7
+Upper West Side South,Times Sq/Theatre District,7
+Gramercy,East Chelsea,7
+Lincoln Square East,UN/Turtle Bay South,7
+Two Bridges/Seward Park,Two Bridges/Seward Park,7
+Stuy Town/Peter Cooper Village,Penn Station/Madison Sq West,7
+Yorkville West,Union Sq,7
+Midtown North,Union Sq,7
+Upper East Side North,Bedford,7
+Washington Heights North,Washington Heights South,7
+Manhattan Valley,West Chelsea/Hudson Yards,7
+Financial District South,UN/Turtle Bay South,7
+East Harlem North,Financial District South,7
+Stuy Town/Peter Cooper Village,East Chelsea,7
+Bushwick South,Bedford,7
+Financial District South,Clinton East,7
+Greenwich Village South,Washington Heights North,7
+Lenox Hill West,Bedford,7
+Stuy Town/Peter Cooper Village,Midtown Center,7
+East Chelsea,Garment District,7
+Lower East Side,East Chelsea,7
+Midtown East,Two Bridges/Seward Park,7
+Sutton Place/Turtle Bay North,Gramercy,7
+Penn Station/Madison Sq West,Lenox Hill West,7
+Hudson Sq,Union Sq,7
+Clinton West,Seaport,7
+Upper West Side South,Sutton Place/Turtle Bay North,7
+Midtown Center,Midtown South,7
+Financial District North,Lincoln Square West,7
+Battery Park,Flatiron,7
+Seaport,Lenox Hill West,7
+Flatiron,Bloomingdale,7
+World Trade Center,Midtown North,7
+UN/Turtle Bay South,Murray Hill,7
+LaGuardia Airport,Bloomingdale,7
+Financial District South,Lincoln Square East,7
+East Village,Meatpacking/West Village West,7
+Midtown Center,Newark Airport,7
+Upper West Side South,Greenwich Village North,7
+Penn Station/Madison Sq West,Upper West Side South,6
+Bushwick South,Lenox Hill East,6
+East Harlem North,Seaport,6
+Lower East Side,Midtown Center,6
+SoHo,Midtown North,6
+Midtown East,Times Sq/Theatre District,6
+Bloomingdale,Upper East Side North,6
+Yorkville East,Bedford,6
+East Chelsea,Lenox Hill East,6
+Midtown East,Hudson Sq,6
+Murray Hill,Meatpacking/West Village West,6
+West Chelsea/Hudson Yards,Bloomingdale,6
+Central Park,TriBeCa/Civic Center,6
+Penn Station/Madison Sq West,Lower East Side,6
+Brooklyn Heights,Midtown East,6
+Yorkville West,Alphabet City,6
+Murray Hill,Penn Station/Madison Sq West,6
+Manhattan Valley,Lenox Hill East,6
+LaGuardia Airport,Central Harlem,6
+Upper West Side South,Upper East Side South,6
+JFK Airport,Sutton Place/Turtle Bay North,6
+Stuy Town/Peter Cooper Village,Stuy Town/Peter Cooper Village,6
+Two Bridges/Seward Park,Brooklyn Heights,6
+Upper West Side North,Lenox Hill East,6
+Gramercy,Meatpacking/West Village West,6
+Penn Station/Madison Sq West,Greenwich Village South,6
+JFK Airport,Bushwick South,6
+Midtown Center,Battery Park City,6
+Gramercy,Washington Heights North,6
+Sutton Place/Turtle Bay North,Washington Heights South,6
+Bushwick South,Lincoln Square West,6
+Lincoln Square West,World Trade Center,6
+Sutton Place/Turtle Bay North,Sutton Place/Turtle Bay North,6
+Midtown Center,Midtown Center,6
+West Chelsea/Hudson Yards,SoHo,5
+Astoria,Newark Airport,5
+UN/Turtle Bay South,Upper East Side South,5
+Two Bridges/Seward Park,Financial District North,5
+Flatiron,Stuy Town/Peter Cooper Village,5
+Penn Station/Madison Sq West,TriBeCa/Civic Center,5
+SoHo,Flatiron,5
+Battery Park,Financial District South,5
+Central Harlem,Bedford,4
+Hudson Sq,Newark Airport,4
+Battery Park,Bedford,4
+West Village,Midtown South,2
